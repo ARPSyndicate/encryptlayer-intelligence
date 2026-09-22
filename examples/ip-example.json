@@ -1,0 +1,9 @@
+{
+  "network": "172.64.0.0",
+  "prefixLength": 24,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-20",
+  "reportedBy": "your-github-username",
+  "evidence": "What this range hosts, and how you confirmed it. Prefer the narrowest range you actually have evidence for."
+}

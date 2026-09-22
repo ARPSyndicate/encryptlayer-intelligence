@@ -1,0 +1,69 @@
+name: Report an indicator
+description: Report a domain, IP, JA3/JARM fingerprint, or app package you believe should be blocked — use this if you don't want to open a PR yourself.
+title: "[indicator] "
+labels: ["new-indicator"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read [SCHEMA.md](../../SCHEMA.md) and [CONTRIBUTING.md](../../CONTRIBUTING.md) first — the
+        fields below map directly to a submission file, and a maintainer (or another contributor)
+        will turn this into a PR. If you're comfortable with git, a PR directly is faster.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Indicator type
+      options:
+        - Domain
+        - IP / CIDR
+        - JA3 fingerprint
+        - JARM fingerprint
+        - App package (stalkerware/malware)
+    validations:
+      required: true
+  - type: input
+    id: indicator
+    attributes:
+      label: The indicator itself
+      description: The domain, IP/CIDR, fingerprint, or package name(s).
+      placeholder: c2.fake-parental-control.example
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - STALKERWARE_C2
+        - SPYWARE_C2
+        - MALWARE_C2
+        - ADWARE_TRACKER
+        - PHISHING
+        - MINING_POOL
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - LOW
+        - MEDIUM
+        - HIGH
+        - CRITICAL
+    validations:
+      required: true
+  - type: input
+    id: date_observed
+    attributes:
+      label: Date observed
+      placeholder: "YYYY-MM-DD"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: What you saw and how you confirmed it. Links to sandbox reports, packet captures, or write-ups are strongly preferred over a claim alone — see CONTRIBUTING.md's "What makes a submission mergeable" section.
+    validations:
+      required: true

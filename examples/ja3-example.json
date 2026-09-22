@@ -1,0 +1,8 @@
+{
+  "fingerprint": "51c64c77e60f3980eea90869b68c58a8",
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-20",
+  "reportedBy": "your-github-username",
+  "evidence": "Which malware family/client this JA3 fingerprint belongs to, and your source (sandbox run, published research, etc.). Must be a client fingerprint, not a server one (see JARM instead)."
+}

@@ -1,0 +1,43 @@
+name: Rebuild feed
+
+# Runs after a submission PR is merged to main. Path-filtered to submissions/** only, so the bot
+# commit this workflow makes (which touches feed/, not submissions/) can never re-trigger itself --
+# no cycle-breaking logic needed beyond the filter itself.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "submissions/**"
+      - "scripts/build_feed.py"
+      - "scripts/validate_submission.py"
+
+concurrency:
+  group: build-feed-main
+  cancel-in-progress: false # never cancel a partially-applied feed rebuild mid-commit
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild feed/
+        run: python3 scripts/build_feed.py
+
+      - name: Commit rebuilt feed if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed/
+          if git diff --cached --quiet; then
+            echo "feed/ unchanged, nothing to commit"
+            exit 0
+          fi
+          git commit -m "chore: rebuild feed from merged submissions [skip ci]"
+          git push

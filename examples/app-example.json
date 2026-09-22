@@ -1,0 +1,13 @@
+{
+  "vendorLabel": "FakeParentalGuard",
+  "category": "STALKERWARE_C2",
+  "packages": [
+    "com.fakeparentalguard.monitor"
+  ],
+  "signingCertificatesSha1": [
+    "1C6E171D3A6E51947DF9E83946BB115ED4A41C6A"
+  ],
+  "dateObserved": "2026-09-20",
+  "reportedBy": "your-github-username",
+  "evidence": "Where you found this app (store listing URL if still up, or how you obtained the APK), and why it's stalkerware/malware rather than a legitimate monitoring/security tool used with consent."
+}

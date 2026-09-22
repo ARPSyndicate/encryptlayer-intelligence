@@ -1,0 +1,57 @@
+name: Validate submissions
+
+on:
+  pull_request:
+    paths:
+      - "submissions/**"
+      - "scripts/validate_submission.py"
+
+# Only the latest run per PR needs to finish -- a push that supersedes an in-flight validation run
+# should cancel it rather than queue behind it.
+concurrency:
+  group: validate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout PR head, with enough history to diff against base
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Changed filenames come from a fork's PR branch and are never trusted as shell/expression
+      # input -- written NUL-delimited to a file and read back with `xargs -0`, never interpolated
+      # via `${{ }}` into a run: script body (that's the classic script-injection path a crafted
+      # filename could exploit).
+      - name: Find changed submission files
+        id: changed
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          git fetch origin "$BASE_SHA" --depth=1
+          git diff -z --name-only --diff-filter=ACMR "$BASE_SHA" "$HEAD_SHA" \
+            -- 'submissions/*/*.json' > "$RUNNER_TEMP/changed_files.txt"
+          byte_count=$(wc -c < "$RUNNER_TEMP/changed_files.txt")
+          echo "byte_count=$byte_count" >> "$GITHUB_OUTPUT"
+          echo "Changed submission files:"
+          tr '\0' '\n' < "$RUNNER_TEMP/changed_files.txt"
+
+      - name: Validate changed submissions
+        if: steps.changed.outputs.byte_count != '0'
+        run: xargs -0 python3 scripts/validate_submission.py < "$RUNNER_TEMP/changed_files.txt"
+
+      - name: No submission files changed
+        if: steps.changed.outputs.byte_count == '0'
+        run: |
+          echo "No files under submissions/ changed in this PR -- nothing to validate."
+          echo "If you meant to add a submission, check it landed under submissions/<type>/ (see CONTRIBUTING.md)."

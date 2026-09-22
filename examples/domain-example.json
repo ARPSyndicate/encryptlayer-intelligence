@@ -1,0 +1,9 @@
+{
+  "domain": "c2.fake-parental-control.example",
+  "matchSubdomains": true,
+  "category": "STALKERWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-09-20",
+  "reportedBy": "your-github-username",
+  "evidence": "One sentence: what you saw, and how you know it's this category. A link to a write-up, sandbox report, or your own analysis notes is stronger than a claim alone."
+}

@@ -1,0 +1,31 @@
+name: Report a false positive / contest a submission
+description: Something already in feed/intel.json (or a merged app-package entry) is blocking a domain, IP, or app that shouldn't be blocked — or a pending submission looks wrong before it's even merged.
+title: "[false-positive] "
+labels: ["false-positive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Also use this for a contested case discussed in
+        [SCHEMA.md](../../SCHEMA.md#app-package-submission-stalkerware--malware) — e.g. a
+        parental-control/employee-monitoring app you believe is legitimate when used with consent.
+  - type: input
+    id: indicator
+    attributes:
+      label: The indicator that's wrongly blocked / contested
+      placeholder: example.com, or the package name
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where is it (file path in feed/, or a PR link)?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this wrong?
+      description: What is this domain/IP/app actually for, and why doesn't the category/severity fit? Evidence (a link to the legitimate service's own site, docs, etc.) helps.
+    validations:
+      required: true

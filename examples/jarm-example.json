@@ -1,0 +1,8 @@
+{
+  "jarmHash": "2ad2ad0002ad2ad00042d42d0000009ab3ee5c093d3f2e7b64f9edb0c1e6a0",
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-20",
+  "reportedBy": "your-github-username",
+  "evidence": "The server this JARM belongs to, and how you obtained/confirmed it (a JARM scan you ran yourself against a known C2 listener, or a published one)."
+}

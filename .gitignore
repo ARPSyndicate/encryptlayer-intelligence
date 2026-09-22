@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# The actual crawler/aggregator scripts stay on disk here for convenience (so the whole
+# intelligence toolchain lives in one place), but are deliberately never published -- they encode
+# exactly how/where data is scraped (rate-limit handling, source-specific parsing quirks, retry
+# behavior) in a way the published DATA doesn't. baseline/*.json (their output) is what's public;
+# the tools that produced it are not.
+/crawlers/

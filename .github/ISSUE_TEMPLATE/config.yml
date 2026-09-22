@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ENCLAY app bugs / feature requests
+    url: https://encryptlayer.net
+    about: This repo is threat intelligence only. For a bug in the Android app itself, use the main ENCLAY repo/support channel instead.

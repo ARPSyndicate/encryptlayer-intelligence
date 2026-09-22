@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This license covers the threat-intelligence data in this repository: everything
+under submissions/, examples/, and feed/ (feed/intel.json, feed/stalkerware_packages.json,
+feed/malware_packages.json).
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+In short: you are free to share (copy and redistribute this data in any medium or format) and
+adapt (remix, transform, and build upon it) for any purpose, even commercially, as long as you
+give appropriate credit to "ENCLAY Intelligence contributors" (or this repository's name/URL),
+provide a link to this license, and indicate if changes were made.
+
+This matches the license used by the upstream community threat-intelligence data this project's
+own aggregation pipeline depends on, so data can flow between them without a license conflict.
+
+Scripts and CI workflows in this repository (scripts/, .github/) are licensed separately under
+MIT -- see LICENSE.
