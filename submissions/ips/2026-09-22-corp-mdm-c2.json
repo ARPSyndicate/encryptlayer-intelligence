@@ -1,0 +1,9 @@
+{
+  "network": "69.55.61.82",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-09-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Hardcoded cleartext C2 for the 'Corp MDM' Android spyware: implant posts stolen SMS to http://69.55.61.82:3456/api/v1/sms/report and polls /api/v1/devices/{id}/commands; port 3456 also serves the operator panel. Same VPS hosted the fake CEVA/TKW Google Play delivery pages, credential-phishing lures, and Windows malware per Have I Been Squatted (2026-09-22): https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics"
+}

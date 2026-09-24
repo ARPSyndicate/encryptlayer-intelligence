@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "Corp MDM",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.corp.mdm"
+  ],
+  "dateObserved": "2026-09-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Android spyware implant labeled 'System Service' (APK SHA-256 61954bab16df91e7a1c940a2bdd5a5cf3c61b529a7c75a5ff21ac78f15c61a86) distributed via fake Google Play pages impersonating CEVA and TKW Logistics. Intercepts incoming SMS (sender/body/timestamp) and posts them to a cleartext C2, and can enable unconditional call forwarding via USSD (**21*<number>#). Hides its launcher, persists via sticky foreground service and boot receiver. Analysis by Have I Been Squatted (2026-09-22): https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics"
+}

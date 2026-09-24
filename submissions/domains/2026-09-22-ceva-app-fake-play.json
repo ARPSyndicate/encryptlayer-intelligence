@@ -1,0 +1,9 @@
+{
+  "domain": "playgoogle.ceva-app.help",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-09-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Fake Google Play page impersonating CEVA Logistics that served the 'Corp MDM' Android spyware APK (package com.corp.mdm) at /download/app.apk; resolves to C2 IP 69.55.61.82. Analysis by Have I Been Squatted (2026-09-22): https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics"
+}
