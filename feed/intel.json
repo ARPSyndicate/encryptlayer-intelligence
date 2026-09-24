@@ -1,8 +1,28 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-09-22T10:36:46Z",
-  "ipEntries": [],
-  "domainEntries": [],
+  "generatedAt": "2026-09-24T04:49:03Z",
+  "ipEntries": [
+    {
+      "network": "69.55.61.82",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    }
+  ],
+  "domainEntries": [
+    {
+      "domain": "playgoogle.ceva-app.help",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "playgoogle.logisticstkwcargo.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "HIGH"
+    }
+  ],
   "ja3Entries": [],
   "jarmEntries": []
 }
