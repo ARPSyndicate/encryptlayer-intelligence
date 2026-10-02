@@ -1,0 +1,26 @@
+{
+  "vendorLabel": "Toll fraud operation targeting Poland (confirmed + code-linked apps)",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.messages.sms.messenger.textmessage.owyo",
+    "com.ms.phonecleaner.clean.junk.pkoza",
+    "com.supono.ihgsvco",
+    "com.maxmessenger.sms.pkqlav",
+    "com.text.chat.messaging.sms.vccqaho",
+    "com.pdfscanner.artyo",
+    "com.seeds.textsms.avon",
+    "com.instantmessages.textdatamessages",
+    "com.shrtsms.xxmessages",
+    "com.cuff.textsms.messages.patk",
+    "com.chatmessages.textsmsmessanger",
+    "com.pdf.quantum.scanner",
+    "com.efasms.magical.tmmssages",
+    "imagetopdf.pdfconverter.jpgtopdf.avabcl",
+    "com.tipro.smstext.message",
+    "com.merclean.approximating",
+    "com.msg.quick.secure.chsrkm"
+  ],
+  "dateObserved": "2026-09-23",
+  "reportedBy": "Aether-0",
+  "evidence": "Android packages of the toll fraud operation targeting Poland (confirmed fraud builds and code-linked loader apps distributed via Google Play after Meta ads). Recovered builds share loader design, hidden host components, WHOIS records, OSS object names and C2 infrastructure. Reported by CERT Polska (2026-09-23): https://cert.pl/en/posts/2026/09/tollfraud-analysis/"
+}

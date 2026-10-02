@@ -1,0 +1,9 @@
+{
+  "domain": "fdghsn.link",
+  "matchSubdomains": true,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-09-23",
+  "reportedBy": "Aether-0",
+  "evidence": "Dedicated loader-activation/policy domain registered by the toll fraud operator via Amazon Registrar (10 Jul - 17 Sep 2026, automated registrations); matchSubdomains=true because the whole domain is operator-registered dedicated infrastructure. Reported by CERT Polska (2026-09-23): https://cert.pl/en/posts/2026/09/tollfraud-analysis/"
+}
