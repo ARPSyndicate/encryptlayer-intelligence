@@ -1,9 +1,81 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-09-24T04:49:03Z",
+  "generatedAt": "2026-10-02T14:02:37Z",
   "ipEntries": [
     {
       "network": "69.55.61.82",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "129.226.172.250",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "43.106.56.154",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "43.106.58.250",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "43.98.201.44",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.245.84.227",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.84.188.213",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.84.193.174",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.84.194.202",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.84.57.5",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.84.66.120",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "47.84.77.127",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "8.219.222.81",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
@@ -20,6 +92,150 @@
       "domain": "playgoogle.logisticstkwcargo.com",
       "matchSubdomains": false,
       "category": "SPYWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "api.appbhwljk.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "auezon.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "bcvsri.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "dokersxxnv.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "evabunt.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "fdghsn.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "fgsbns.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "funtpjw.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "fuzwek.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "ghdnbv.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "hsbdbv.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "ksbxnc.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "merfunk.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "msg.fastcleaa.link",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "piaagt.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "sdbnxm.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "swepqk.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "tegonp.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "tehsnb.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "trixbn.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "uhsbxh.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "vamko.click",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "x.euono.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "yandeb.link",
+      "matchSubdomains": true,
+      "category": "MALWARE_C2",
       "severity": "HIGH"
     }
   ],
