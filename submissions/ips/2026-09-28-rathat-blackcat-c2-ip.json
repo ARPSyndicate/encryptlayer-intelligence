@@ -1,0 +1,9 @@
+{
+  "network": "8.231.120.246",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-28",
+  "reportedBy": "Aether-0",
+  "evidence": "Cleafy's report, published 2026-09-28, lists 8.231.120[.]246 as 'Apr 2026 C2 (BlackCat)' in Appendix B. This is submitted as one public IPv4 host (/32), not a hosting range. dateObserved is the report source-confirmation date because the source gives only a month for the C2 sighting; it is not firsthand traffic observation. Historical C2 status; current activity is unverified. https://www.cleafy.com/cleafy-labs/from-blackcat-to-panda-workshop-inside-the-evolving-c2-panel-behind-rathat"
+}
