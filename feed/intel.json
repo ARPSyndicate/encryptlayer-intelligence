@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-02T14:02:37Z",
+  "generatedAt": "2026-10-03T11:17:38Z",
   "ipEntries": [
     {
       "network": "69.55.61.82",
@@ -79,6 +79,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "network": "8.231.120.246",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "domainEntries": [
@@ -235,6 +241,18 @@
     {
       "domain": "yandeb.link",
       "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "admin.xiongmaocs.pics",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "admin.chunhuating.best",
+      "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
     }
