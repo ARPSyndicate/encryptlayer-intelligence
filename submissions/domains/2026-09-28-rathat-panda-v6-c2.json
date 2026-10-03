@@ -1,0 +1,9 @@
+{
+  "domain": "admin.chunhuating.best",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-09-28",
+  "reportedBy": "Aether-0",
+  "evidence": "Cleafy's 2026-09-28 technical analysis lists admin.chunhuating[.]best as the September 2026 C2 for Panda Workshop V6, the operator panel behind the RATHat Android banking trojan. The report describes its malware-building and device-control functions. 2026-09-28 is the publication/source-confirmation date, not firsthand traffic observation. https://www.cleafy.com/cleafy-labs/from-blackcat-to-panda-workshop-inside-the-evolving-c2-panel-behind-rathat"
+}

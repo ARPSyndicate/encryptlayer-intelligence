@@ -1,0 +1,9 @@
+{
+  "domain": "admin.xiongmaocs.pics",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-28",
+  "reportedBy": "Aether-0",
+  "evidence": "Cleafy's 2026-09-28 technical analysis lists admin.xiongmaocs[.]pics as the August 2026 C2 for Panda Workshop V5, part of the RATHat Android banking-trojan operation. Severity is MEDIUM because the report dates this infrastructure to August and does not establish current activity. 2026-09-28 is the publication/source-confirmation date, not firsthand traffic observation. https://www.cleafy.com/cleafy-labs/from-blackcat-to-panda-workshop-inside-the-evolving-c2-panel-behind-rathat"
+}
