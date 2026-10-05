@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "CollectSdk",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.yj.pickled.radish"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The source analysis period ended 2026-06-18; this is source confirmation, not a firsthand observation by this contributor or a claim that the endpoint is active now. The report identifies CollectSdk as an ad/click-fraud plugin that transmits encrypted device metadata and receives WebView control commands from www.sda-1.xyz:40003. The app submission category is MALWARE_C2, the repository’s supported coarse app category. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

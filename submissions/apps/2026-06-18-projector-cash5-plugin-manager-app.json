@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "Cash5 PluginManager",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.me.cash5"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report identifies com.me.cash5 as the Stage 3 plugin manager and documents reflective loading of the final payload class through DexClassLoader under the SilentSDK chain. Source confirmation through 2026-06-18; no current liveness is claimed. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "bur.thedynamicleap.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report identifies this dedicated host as SilentSDK’s secondary C2/telemetry exfiltration endpoint; the client sends GZIP-compressed, AES-encrypted device telemetry to it. The source analysis period ended 2026-06-18; dateObserved is source confirmation, not a firsthand observation by this contributor, and does not assert current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware. An independent analysis also lists this host as a SilentSDK secondary C2: https://zanestjohn.com/blog/reing-with-claude-code."
+}

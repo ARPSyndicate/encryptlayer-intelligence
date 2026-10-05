@@ -1,0 +1,9 @@
+{
+  "domain": "www.sda-1.xyz",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report identifies this exact host as the CollectSdk ad/click-fraud plugin endpoint on port 40003; the plugin sends encrypted device metadata and receives WebView control commands. The source analysis period ended 2026-06-18; dateObserved is source confirmation, not a firsthand observation by this contributor, and does not assert current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

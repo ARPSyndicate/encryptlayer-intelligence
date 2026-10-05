@@ -1,0 +1,9 @@
+{
+  "network": "107.151.220.86",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "A live balancer response captured on 2026-06-18 returned this IP as a port 12341/TCP dispatcher; the report also records the dispatcher port open. The source analysis period ended 2026-06-18; this is source confirmation, not a firsthand observation by this contributor or a claim of current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

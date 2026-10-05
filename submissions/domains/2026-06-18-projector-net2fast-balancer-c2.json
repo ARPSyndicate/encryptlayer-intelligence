@@ -1,0 +1,9 @@
+{
+  "domain": "balancer.api.net2fast.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report reverse-engineers the XFJ Android proxy agent posting device registration to this balancer and receiving dispatcher addresses from it; a live response was captured during the June 2026 analysis. The source analysis period ended 2026-06-18; dateObserved is source confirmation, not a firsthand observation by this contributor, and does not assert current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

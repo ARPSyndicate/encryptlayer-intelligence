@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "Hotack Projector Firmware",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.hotack.silentsdk"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report identifies com.hotack.silentsdk as a hidden, system-privileged boot-starting RAT/dropper that downloads and executes remote code via api.pixelpioneerss.com. An independent analysis of another projector independently classifies the same package as a RAT/dropper and maps the same C2. Source confirmation through 2026-06-18; no current liveness is claimed. Source: https://github.com/Kavan00/Android-Projector-C2-Malware. Independent source: https://zanestjohn.com/blog/reing-with-claude-code."
+}

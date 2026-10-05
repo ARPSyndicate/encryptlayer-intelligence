@@ -1,0 +1,9 @@
+{
+  "domain": "pb-api.aodintech.com",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report maps the preinstalled ExpandSDK to this ad-configuration API; that SDK injects ads and can render system-overlay dialogs. The source analysis period ended 2026-06-18; dateObserved is source confirmation, not a firsthand observation by this contributor, and does not assert current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware. An independent analysis also identifies this package/host as ad injection infrastructure: https://zanestjohn.com/blog/reing-with-claude-code."
+}

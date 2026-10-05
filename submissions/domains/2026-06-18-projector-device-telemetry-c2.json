@@ -1,0 +1,9 @@
+{
+  "domain": "event-api.aodintech.com",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report says the preinstalled event service sends device identifiers, including MAC address and serial number, to this endpoint every five minutes without user consent; it documents POST /report. The source analysis period ended 2026-06-18; dateObserved is source confirmation, not a firsthand observation by this contributor, and does not assert current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware. An independent analysis maps the same package to this telemetry-exfiltration endpoint: https://zanestjohn.com/blog/reing-with-claude-code."
+}

@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "Jaguar",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.hhh.lijng.jaaa"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report identifies this package as a reverse-proxy/botnet client using TLS and a custom JSON protocol to contact sd002.jaguar-distributor.syslogcollector.com; attribution to Vo1d is described as suspected. Source confirmation through 2026-06-18: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

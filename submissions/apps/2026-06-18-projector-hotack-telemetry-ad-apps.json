@@ -1,0 +1,11 @@
+{
+  "vendorLabel": "Hotack Projector Firmware",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.htc.eventuploadservice",
+    "com.htc.expandsdk"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report attributes these related preinstalled firmware packages to the same projector ecosystem: com.htc.eventuploadservice sends device identifiers to event-api.aodintech.com without consent, and com.htc.expandsdk injects ads using remote configuration and system overlays. The app schema uses MALWARE_C2 as its coarse category for malware/spyware apps. Source analysis through 2026-06-18: https://github.com/Kavan00/Android-Projector-C2-Malware. Independent package/endpoint mapping: https://zanestjohn.com/blog/reing-with-claude-code."
+}

@@ -1,0 +1,9 @@
+{
+  "network": "89.222.109.18",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report identifies 89.222.109.18 as the C2 balancer reached by the XFJ agent through balancer.api.net2fast.com/channellogin. The source analysis period ended 2026-06-18; this is source confirmation, not a firsthand observation by this contributor or a claim of current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}

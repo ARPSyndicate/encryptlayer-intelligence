@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "XFJ / Net2Fast",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.falc.tree.alln"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "This is based on the source’s 2026-06-18 live response and is not a claim of current reachability. The report identifies this native plugin as the XFJ residential-proxy agent: it registers with the Net2Fast balancer and relays customer traffic through infected projectors. The live dispatcher response is dated 2026-06-18. Source: https://github.com/Kavan00/Android-Projector-C2-Malware."
+}
