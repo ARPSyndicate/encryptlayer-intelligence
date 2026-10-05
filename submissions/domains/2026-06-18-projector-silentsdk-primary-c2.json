@@ -1,0 +1,9 @@
+{
+  "domain": "api.pixelpioneerss.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The report reverse-engineers SilentSDK as a system-privileged RAT/dropper and identifies this host as its primary C2 for encrypted device beacons and payload responses. The source analysis period ended 2026-06-18; dateObserved is source confirmation, not a firsthand observation by this contributor, and does not assert current reachability. Source: https://github.com/Kavan00/Android-Projector-C2-Malware. An independent analysis maps the same SilentSDK package to this RAT C2: https://zanestjohn.com/blog/reing-with-claude-code."
+}

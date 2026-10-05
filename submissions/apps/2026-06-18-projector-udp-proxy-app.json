@@ -1,0 +1,10 @@
+{
+  "vendorLabel": "Android Projector UDP Proxy",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.amg.mnjk.lilo"
+  ],
+  "dateObserved": "2026-06-18",
+  "reportedBy": "Aether-0",
+  "evidence": "The source analysis period ended 2026-06-18; this is source confirmation, not a firsthand observation by this contributor or a claim that the endpoint is active now. The report identifies this plugin as a UDP proxy node that registers and tunnels traffic through o.fecebbbk.xyz:16000; a separate analysis observed DNS queries to the same endpoint on another projector. Source: https://github.com/Kavan00/Android-Projector-C2-Malware. Independent source: https://zanestjohn.com/blog/reing-with-claude-code."
+}
