@@ -1,7 +1,31 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-03T11:17:38Z",
+  "generatedAt": "2026-10-05T09:49:36Z",
   "ipEntries": [
+    {
+      "network": "89.222.109.18",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "107.151.220.86",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "207.166.169.133",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "79.127.216.89",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
     {
       "network": "69.55.61.82",
       "prefixLength": 32,
@@ -88,6 +112,48 @@
     }
   ],
   "domainEntries": [
+    {
+      "domain": "pb-api.aodintech.com",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.sda-1.xyz",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "event-api.aodintech.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "balancer.api.net2fast.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "api.pixelpioneerss.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "bur.thedynamicleap.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "o.fecebbbk.xyz",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
     {
       "domain": "playgoogle.ceva-app.help",
       "matchSubdomains": false,
