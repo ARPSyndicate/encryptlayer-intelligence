@@ -1,0 +1,9 @@
+{
+  "domain": "ci-artifacts.dev",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-05",
+  "reportedBy": "Aether-0",
+  "evidence": "StepSecurity's October 5, 2026 technical analysis of compromised @subql/common@5.8.3 identifies ci-artifacts.dev as artifact-delivery, credential-exfiltration, and remote-command infrastructure. It traces HTTPS collection posts to /router, command polling, and a shell-upgrade endpoint, and recommends blocking this domain. dateObserved reflects source confirmation in the report published 2026-10-05, not direct network observation by this contributor. The report documents static payload capabilities and attempted behavior; this entry does not claim successful theft or current reachability. Source: https://www.stepsecurity.io/blog/subql-ecosystem-compromised."
+}
