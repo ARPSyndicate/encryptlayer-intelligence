@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-05T09:49:36Z",
+  "generatedAt": "2026-10-06T05:51:34Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -318,6 +318,12 @@
     },
     {
       "domain": "admin.chunhuating.best",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "ci-artifacts.dev",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
