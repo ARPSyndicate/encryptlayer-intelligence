@@ -1,0 +1,9 @@
+{
+  "network": "65.38.121.198",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-07",
+  "reportedBy": "Aether-0",
+  "evidence": "F5 Labs' October 7, 2026 bulletin lists this address among attacker IPs in its Longlegs/Warlock coverage. Microsoft's July 22, 2025 technical analysis identifies 65.38.121.198 as post-exploitation C2 for Storm-2603. This is source confirmation, not a firsthand traffic observation by this contributor; current reachability is not asserted. Sources: https://www.f5.com/labs/articles/weekly-threat-bulletin-october-7th-2026 and https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/."
+}
