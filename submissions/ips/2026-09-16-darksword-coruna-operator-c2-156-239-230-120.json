@@ -1,0 +1,9 @@
+{
+  "network": "156.239.230.120",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-09-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Censys describes this host as a live DarkSword/Coruna C2 platform, with device registration, command dispatch, and an admin panel; it also reports an agent polling a device on 2026-09-15. The report lists the host as first seen 2026-09-16. This is source-confirmed historical activity, not a firsthand observation, and current reachability is not asserted. Source: https://censys.com/blog/darksword-coruna-open-directory-finding-report/."
+}
