@@ -1,0 +1,9 @@
+{
+  "network": "194.62.249.53",
+  "prefixLength": 32,
+  "category": "PHISHING",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Dream Research Labs' 2026-10-08 report identifies 194.62.249.53 as campaign hosting infrastructure. Hosts Middle Eastern government and telecom lookalikes; Dream reports this address observed from 2026-09-15 through 2026-09-16. Severity is MEDIUM because the report gives no later observation for this host. Source: https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign"
+}

@@ -1,0 +1,9 @@
+{
+  "network": "194.62.249.19",
+  "prefixLength": 32,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-01",
+  "reportedBy": "Aether-0",
+  "evidence": "Dream Research Labs' 2026-10-08 report identifies 194.62.249.19 as campaign hosting infrastructure. Hosts Google Drive and meeting-service lookalikes used in the campaign; Dream reports this address observed from 2026-07-08 through 2026-10-01. Source: https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign"
+}

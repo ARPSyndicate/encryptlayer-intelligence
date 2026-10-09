@@ -1,0 +1,9 @@
+{
+  "domain": "g-prx.itugegape524.workers.dev",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-08",
+  "reportedBy": "Aether-0",
+  "evidence": "Dream Research Labs' 2026-10-08 report identifies this exact Cloudflare Worker hostname as an operational proxy/fallback relay for DarkBlinders backdoor communications. The report links it to the active campaign; matchSubdomains is false to cover only this host on a shared provider. Publication date is source confirmation, not firsthand traffic observation. Source: https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign"
+}
