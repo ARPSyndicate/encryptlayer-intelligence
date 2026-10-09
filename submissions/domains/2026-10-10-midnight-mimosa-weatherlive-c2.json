@@ -1,0 +1,9 @@
+{
+  "domain": "api.weatherlive.world",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-10",
+  "reportedBy": "Aether-0",
+  "evidence": "Bitdefender Labs identifies api.weatherlive.world as the Midnight Mimosa C2: the /br_upgrade/upgradeV2/getConfigs endpoint returns AES-encrypted module-control configuration, and /odborwer_dot/cm receives telemetry. Source: report published 2026-10-08 and updated 2026-10-09, https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware. Date basis: source confirmation on 2026-10-10, not a firsthand live-traffic observation."
+}
