@@ -1,0 +1,29 @@
+{
+  "vendorLabel": "Midnight Mimosa",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.android.system.lite",
+    "com.android.sys.prot",
+    "com.android.sys.gmsprot",
+    "com.android.sys.bcprot",
+    "com.mobile.applock.en",
+    "com.mobile.applock.wt",
+    "com.mobile.applock.tg",
+    "com.audify.editor.wavrge",
+    "appicon.diy.tools.prop",
+    "com.audify.editor.pro",
+    "com.prorestore.qr",
+    "com.message.recovery.prorestore",
+    "com.go.weather.mot",
+    "com.cool.weather.yl",
+    "com.dmstudio.weather",
+    "com.dl.guard.lock",
+    "picturetranslate.extractor.text.lite",
+    "com.notemaster.record.mark",
+    "com.arabmusic.tap.aghani_tamerhosny",
+    "org.life.goal.tools"
+  ],
+  "dateObserved": "2026-10-10",
+  "reportedBy": "Aether-0",
+  "evidence": "Bitdefender Labs' report (published 2026-10-08, updated 2026-10-09) identifies the com.android.system.lite enabler and confirmed com.android.sys.* variants as the same persistent, privileged malware family using the api.weatherlive.world C2. It also documents com.mobile.applock.en, .wt and .tg as dropped proxyware/ad-fraud apps, and lists the other packages as Google Play builds carrying the same ad-fraud family markers and communicating with the campaign servers. Package names are grouped as one Midnight Mimosa family; the report does not publish full signing-certificate SHA-1 values, so none are asserted. Source: https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware. Date basis: source confirmation on 2026-10-10, not firsthand device observation."
+}
