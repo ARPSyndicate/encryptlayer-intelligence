@@ -1,0 +1,9 @@
+{
+  "domain": "c2.installscenter.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-06-04",
+  "reportedBy": "Aether-0",
+  "evidence": "Hunt.io recorded TLS for c2.installscenter.com on port 2083 at 80.78.27.252 from 2026-04-04 through 2026-06-04; Group-IB identifies this hostname as BraZetsu command infrastructure. This is a historical exact-host observation; Hunt.io reports the origin services went quiet by 2026-06-20 and the hostname resolves through Cloudflare. Sources: https://hunt.io/blog/brazetsu-access-broker-infrastructure and https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace/"
+}
