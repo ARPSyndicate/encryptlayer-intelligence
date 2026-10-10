@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-08T07:18:26Z",
+  "generatedAt": "2026-10-10T05:49:16Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -351,6 +351,12 @@
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "domain": "api.weatherlive.world",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "ja3Entries": [],
