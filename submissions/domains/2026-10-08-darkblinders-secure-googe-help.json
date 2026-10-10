@@ -1,0 +1,9 @@
+{
+  "domain": "secure-googe.help",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-08",
+  "reportedBy": "Aether-0",
+  "evidence": "Dream Research Labs' 2026-10-08 report lists secure-googe.help as a misspelled google security lure targeting Global cloud users; the report describes the DarkBlinders campaign as active from August to October 2026. The publication date is used as source confirmation, not firsthand traffic observation. Source: https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign"
+}

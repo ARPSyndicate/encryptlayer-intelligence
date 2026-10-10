@@ -1,0 +1,9 @@
+{
+  "network": "194.62.249.114",
+  "prefixLength": 32,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-01",
+  "reportedBy": "Aether-0",
+  "evidence": "Dream Research Labs' 2026-10-08 report identifies 194.62.249.114 as campaign hosting infrastructure. Hosts Google and government-webmail lookalikes; Dream also lists a direct campaign service on TCP port 8001. Reported observed from 2026-08-05 through 2026-10-01. The ENCLAY indicator is limited to this single IP and is port-agnostic. Source: https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign"
+}

@@ -1,0 +1,9 @@
+{
+  "network": "89.125.209.80",
+  "prefixLength": 32,
+  "category": "PHISHING",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-30",
+  "reportedBy": "Aether-0",
+  "evidence": "Dream Research Labs' 2026-10-08 report identifies 89.125.209.80 as campaign hosting infrastructure. Hosts the StarkMeet decoy brand used for malware delivery; Dream reports this address observed from 2026-09-05 through 2026-09-30. Severity is MEDIUM because the report gives no later observation for this host. Source: https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign"
+}
