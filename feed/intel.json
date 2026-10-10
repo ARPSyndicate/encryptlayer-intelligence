@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-10T05:55:24Z",
+  "generatedAt": "2026-10-10T05:55:49Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -25,6 +25,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "network": "194.62.249.53",
+      "prefixLength": 32,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
     },
     {
       "network": "156.239.230.120",
@@ -115,6 +121,24 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "89.125.209.80",
+      "prefixLength": 32,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "194.62.249.114",
+      "prefixLength": 32,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "network": "194.62.249.19",
+      "prefixLength": 32,
+      "category": "PHISHING",
+      "severity": "HIGH"
     },
     {
       "network": "65.38.121.198",
@@ -356,6 +380,198 @@
       "domain": "ci-artifacts.dev",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "accountmeetgooge.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "cdn-gdrive.cloud",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "cdndrive.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "drive-g.cloud",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "drive-go.cam",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "drive-googe.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "drivegooge.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "g-prx.itugegape524.workers.dev",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "gcc-sg.cloud",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "gcc-sg.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "googedrive.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "googemeet.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "gsecurity.help",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "korektell.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "krgcloud.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "meet-goo.cam",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "meetcloud.site",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "meetgooge.cam",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "meetgooge.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "meetlogin.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "meetonline.cam",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "mfakuwait.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "mfakuwait.org",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "mfakuwait.website",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "moelcloud.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "mofakuwait.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "msonedrive.cloud",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "secure-googe.help",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "stark-meet.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "stark-meet.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "stark-meet.website",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "starkmeet.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
       "severity": "HIGH"
     },
     {
