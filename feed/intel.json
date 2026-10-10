@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-10T05:49:16Z",
+  "generatedAt": "2026-10-10T05:55:24Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -130,6 +130,12 @@
     }
   ],
   "domainEntries": [
+    {
+      "domain": "c2.installscenter.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
     {
       "domain": "pb-api.aodintech.com",
       "matchSubdomains": false,
