@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-10T05:55:49Z",
+  "generatedAt": "2026-10-11T09:41:07Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -203,6 +203,66 @@
       "severity": "HIGH"
     },
     {
+      "domain": "nhyeoeaueesyih.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "srnnereaivm.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "heahnoetsteot.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "reoineueryete.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "gradnoesieheco.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "iwtuhfuei.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "dtteeoerp.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "vaituusoeeaanu.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "daihmtnawe.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "ieyoqrhtz.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
       "domain": "playgoogle.ceva-app.help",
       "matchSubdomains": false,
       "category": "SPYWARE_C2",
@@ -377,7 +437,19 @@
       "severity": "HIGH"
     },
     {
+      "domain": "chueohoe.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
       "domain": "ci-artifacts.dev",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "teevoeeaoobn.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
