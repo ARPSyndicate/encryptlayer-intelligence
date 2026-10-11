@@ -1,0 +1,9 @@
+{
+  "domain": "teevoeeaoobn.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-08",
+  "reportedBy": "Aether-0",
+  "evidence": "Report URI's analysis published 2026-10-08 lists teevoeeaoobn.com as the newly live MALWARE_C2 domain for the week beginning 2026-10-08 UTC, registered on 2026-10-08; the report describes a Thursday DGA rotation. Current reachability was not independently checked. Source: https://report-uri.ghost.io/a-fake-captcha-a-trojanised-file-manager-and-a-year-of-ioc-c2-domains/"
+}

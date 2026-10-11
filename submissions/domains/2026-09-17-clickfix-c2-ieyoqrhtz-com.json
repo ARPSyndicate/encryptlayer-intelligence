@@ -1,0 +1,9 @@
+{
+  "domain": "ieyoqrhtz.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-17",
+  "reportedBy": "Aether-0",
+  "evidence": "Report URI's analysis published 2026-10-08 lists ieyoqrhtz.com as the registered MALWARE_C2 domain for the week beginning 2026-09-17 UTC, registered on 2026-09-17, in a Thursday DGA rotation. This is source-reported historical use and does not claim current activity. Source: https://report-uri.ghost.io/a-fake-captcha-a-trojanised-file-manager-and-a-year-of-ioc-c2-domains/"
+}
