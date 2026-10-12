@@ -1,0 +1,9 @@
+{
+  "domain": "arusupport-region1-webhook.online",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0",
+  "evidence": "Zscaler ThreatLabz's technical analysis, published 2026-10-08, identifies `arusupport-region1-webhook.online/statics/cache/v11/abicfjej` as a FLATROOF C2 server (IOC table). The analyzed configuration uses this HTTP webhook for registration and tasking (FLATROOF configuration analysis). Source: https://www.zscaler.com/blogs/security-research/suspected-tradertraitor-group-uses-trojanized-terraform-provider-deliver. Date basis: source confirmation on 2026-10-12, not firsthand traffic; no current reachability claim is made."
+}
