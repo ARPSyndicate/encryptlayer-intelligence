@@ -1,0 +1,9 @@
+{
+  "domain": "docsend.appstore.com.mx",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky Securelist's technical analysis of MacSync (published 2026-09-24) explicitly lists this exact host in the C2 subsection of its Indicators of Compromise. The report describes MacSync uploading stolen data and using its backdoor C2 for commands and file transfers; it says this infection chain was first spotted in the wild in September 2026. The host also appears in the report's delivery URL list, but its separate C2 listing supports this role. Source: https://securelist.com/macsync-new-version/121383/. Date basis: independent source confirmation on 2026-10-12; the source gives only a September observation month, not an exact first-seen date for this host. No current reachability claim is made."
+}
