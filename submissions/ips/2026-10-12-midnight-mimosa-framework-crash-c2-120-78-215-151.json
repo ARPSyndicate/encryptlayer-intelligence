@@ -1,0 +1,9 @@
+{
+  "network": "120.78.215.151",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "evidence": "Bitdefender Labs' technical analysis, published 2026-10-08 and updated 2026-10-09, lists `120.78.215.151:80/api/bugLog` as an embedded-framework crash C2 endpoint in the Indicators of Compromise network table. Source: https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware. Date basis: source confirmation on 2026-10-12, not firsthand traffic; no current reachability claim is made.",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0"
+}
