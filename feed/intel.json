@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-12T18:03:01Z",
+  "generatedAt": "2026-10-12T18:03:23Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -671,6 +671,12 @@
       "severity": "MEDIUM"
     },
     {
+      "domain": "arusupport-region1-webhook.online",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
       "domain": "docsend.appstore.com.mx",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
@@ -685,6 +691,12 @@
     {
       "domain": "apple.v46wd6uramzkmeeo.in",
       "matchSubdomains": true,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "delay.servehttp.com",
+      "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
     }
