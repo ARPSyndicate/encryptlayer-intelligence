@@ -1,0 +1,9 @@
+{
+  "domain": "delay.servehttp.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0",
+  "evidence": "Zscaler ThreatLabz's technical analysis, published 2026-10-08, lists `delay.servehttp.com` as a ROOFDECK C2 server (IOC table). ROOFDECK uses discovered C2 addresses for HTTP and WebSocket command traffic (ROOFDECK network communications analysis). Source: https://www.zscaler.com/blogs/security-research/suspected-tradertraitor-group-uses-trojanized-terraform-provider-deliver. Date basis: source confirmation on 2026-10-12, not firsthand traffic; no current reachability claim is made."
+}
