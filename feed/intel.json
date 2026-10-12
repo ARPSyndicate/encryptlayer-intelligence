@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-12T18:02:08Z",
+  "generatedAt": "2026-10-12T18:03:01Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -148,6 +148,24 @@
     },
     {
       "network": "131.226.2.6",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "39.96.8.180",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "85.17.70.38",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "120.78.215.151",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
@@ -661,6 +679,12 @@
     {
       "domain": "toria.apple03cloudstore.com",
       "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "apple.v46wd6uramzkmeeo.in",
+      "matchSubdomains": true,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
     }
