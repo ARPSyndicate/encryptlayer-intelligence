@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-11T09:41:07Z",
+  "generatedAt": "2026-10-12T18:02:08Z",
   "ipEntries": [
     {
       "network": "89.222.109.18",
@@ -648,6 +648,18 @@
     },
     {
       "domain": "api.weatherlive.world",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "docsend.appstore.com.mx",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "toria.apple03cloudstore.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
