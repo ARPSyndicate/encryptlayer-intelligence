@@ -1,0 +1,9 @@
+{
+  "network": "85.17.70.38",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "evidence": "Bitdefender Labs' technical analysis, published 2026-10-08 and updated 2026-10-09, lists `85.17.70.38:6000` as a live EnLoaderLib proxyware C2 used by the `com.mobile.applock.en` family (Indicators of Compromise network table). Source: https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware. Date basis: source confirmation on 2026-10-12, not firsthand traffic; the report calls it live, but this submission makes no independent reachability claim.",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0"
+}

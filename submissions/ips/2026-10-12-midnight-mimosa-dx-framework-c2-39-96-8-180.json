@@ -1,0 +1,9 @@
+{
+  "network": "39.96.8.180",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "evidence": "Bitdefender Labs' technical analysis, published 2026-10-08 and updated 2026-10-09, lists `39.96.8.180:9008/ssc/rprt/bug` as the DX/S1 framework bug-report C2 endpoint in the Indicators of Compromise network table. Source: https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware. Date basis: source confirmation on 2026-10-12, not firsthand traffic; no current reachability claim is made.",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0"
+}

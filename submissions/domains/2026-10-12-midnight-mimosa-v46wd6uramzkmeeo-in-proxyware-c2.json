@@ -1,0 +1,9 @@
+{
+  "domain": "apple.v46wd6uramzkmeeo.in",
+  "matchSubdomains": true,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "evidence": "Bitdefender Labs' technical analysis, published 2026-10-08 and updated 2026-10-09, lists `v46wd6uramzkmeeo.in` among EnLoaderLib proxyware control hosts and gives the concrete pattern `{productId}.apple.v46wd6uramzkmeeo.in:6000` (Indicators of Compromise network table). This exact `apple` namespace with subdomains is used for the campaign's `com.mobile.applock.en` proxyware C2. Source: https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware. Date basis: source confirmation on 2026-10-12, not firsthand traffic; current reachability is not asserted.",
+  "dateObserved": "2026-10-12",
+  "reportedBy": "Aether-0"
+}
