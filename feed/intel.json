@@ -1,7 +1,13 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-12T18:03:23Z",
+  "generatedAt": "2026-10-13T08:35:33Z",
   "ipEntries": [
+    {
+      "network": "178.128.14.204",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
     {
       "network": "89.222.109.18",
       "prefixLength": 32,
@@ -22,6 +28,12 @@
     },
     {
       "network": "79.127.216.89",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "92.119.164.50",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
