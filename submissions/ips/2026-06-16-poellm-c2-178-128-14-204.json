@@ -1,0 +1,9 @@
+{
+  "network": "178.128.14.204",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-06-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Lumen Black Lotus Labs lists 178.128.14.204 as one of the active PoeLLM C2 servers in its 2026-10-07 report, with source-reported first-seen date 2026-06-16. The analysis describes infected servers beaconing to PoeLLM C2 for command and control, with the botnet used for cryptomining and exploit scanning. The date is Lumen\u2019s first-seen date; Lumen marked this C2 active as of publication, and this is not firsthand observation: https://www.lumen.com/blog/en-us/canto-incognito-tracking-the-poellm-malware"
+}
