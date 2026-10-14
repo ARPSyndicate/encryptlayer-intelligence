@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-13T08:35:33Z",
+  "generatedAt": "2026-10-14T14:02:45Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -708,6 +708,18 @@
     },
     {
       "domain": "delay.servehttp.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.helloharmonyos.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "jiekou.baojingtextile.cn",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
