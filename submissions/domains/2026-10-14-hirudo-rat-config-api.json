@@ -1,0 +1,9 @@
+{
+  "domain": "jiekou.baojingtextile.cn",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-14",
+  "reportedBy": "Aether-0",
+  "evidence": "ThreatFabric's technical analysis published 2026-10-14 identifies jiekou.baojingtextile.cn as the Hirudo RAT configuration API. The report describes Hirudo as an Android banking RAT with credential theft and remote-control capabilities. This is source confirmation, not firsthand observation or a claim of present-day reachability. The exact host is submitted without inferred subdomains. Source: https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps"
+}

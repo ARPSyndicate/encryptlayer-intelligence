@@ -1,0 +1,15 @@
+{
+  "vendorLabel": "Hirudo Android banking RAT",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.agbbh.kjdrttt",
+    "com.onev.vip",
+    "com.koishort.app",
+    "com.zoyatv.app",
+    "com.zk7qpx.mv9wlt",
+    "com.r9nkvx.qw2mpl"
+  ],
+  "dateObserved": "2026-10-14",
+  "reportedBy": "Aether-0",
+  "evidence": "ThreatFabric's technical analysis published 2026-10-14 lists com.agbbh.kjdrttt, com.onev.vip, com.koishort.app, and com.zoyatv.app as Hirudo lure/dropper packages, and com.zk7qpx.mv9wlt and com.r9nkvx.qw2mpl as Hirudo RAT payload packages. It documents the droppers installing the payload and the RAT's credential theft, SMS collection, and remote-control behavior. The article pairs these package names with sample SHA-256s but does not provide signing-certificate SHA-1s. Source: https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps"
+}
