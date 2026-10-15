@@ -1,0 +1,9 @@
+{
+  "domain": "sincereaccertain.com",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab found Discover-Tech ads distributing URLs to this host whose encrypted parameters decoded to a visitor IP, timestamp, user agent, and advertising ID, linking it to a Candiru profiling route; the host did not match Fingerprint C1, so it is classified as tracking rather than C2. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

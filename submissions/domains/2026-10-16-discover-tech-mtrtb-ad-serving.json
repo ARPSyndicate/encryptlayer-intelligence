@@ -1,0 +1,9 @@
+{
+  "domain": "mtrtb.com",
+  "matchSubdomains": true,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant identifies *.mtrtb.com as Discover-Tech operator and delivery infrastructure, calls mtrtb.com its primary ad-serving domain, and documents /getAd scripts carrying device identifiers into the spyware targeting chain; this follows the report's explicit wildcard, with source confirmation on 2026-10-16 (not firsthand traffic observation). https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}

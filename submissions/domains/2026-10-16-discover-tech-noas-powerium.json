@@ -1,0 +1,9 @@
+{
+  "domain": "noas.powerium.net",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab lists this hostname as a Discover-Tech NOAS server (including /getAd or /cplatform/getAd endpoints) used by Controlium to task targeted advertisements and return code; the report links the platform to Candiru spyware delivery. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

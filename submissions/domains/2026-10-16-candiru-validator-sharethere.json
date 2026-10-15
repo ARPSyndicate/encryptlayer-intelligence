@@ -1,0 +1,9 @@
+{
+  "domain": "sharethere.net",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab reports this host matched its Candiru validator Fingerprint V1 in Censys scans; validator servers perform an initial device check before profiling and infection, with source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

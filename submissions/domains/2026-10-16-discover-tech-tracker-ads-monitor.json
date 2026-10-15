@@ -1,0 +1,9 @@
+{
+  "domain": "ads-monitor.xyz",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant and Citizen Lab list this among domains associated with Discover-Tech ad tracking or targeting. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}

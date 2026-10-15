@@ -1,0 +1,9 @@
+{
+  "domain": "plasticbells.com",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab identifies this hostname as one of four Candiru command-and-control servers matching Fingerprint C1 in the Al Jazeera investigation; the recovered spyware DLL hard-coded fearevolve.com and jobmarcher.com as C&C, and all four hosts matched C1, with source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

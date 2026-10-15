@@ -1,0 +1,9 @@
+{
+  "domain": "tekma.adtimizer.co",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant reports this host resolving to the same Discover-Tech load balancer as dtech.adtimizer.co and links it to the Tekma ADINT platform; the exact subdomain is submitted because the adtimizer.co apex may serve a separate ad platform. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}
