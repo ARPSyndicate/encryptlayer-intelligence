@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-16T06:41:44Z",
+  "generatedAt": "2026-10-16T10:12:08Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -683,6 +683,12 @@
       "severity": "MEDIUM"
     },
     {
+      "domain": "seris.gd",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
       "domain": "arusupport-region1-webhook.online",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
@@ -782,6 +788,12 @@
       "domain": "sharethere.net",
       "matchSubdomains": false,
       "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "gexwalltool.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
       "severity": "MEDIUM"
     },
     {
