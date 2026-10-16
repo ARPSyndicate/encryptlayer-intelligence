@@ -1,0 +1,9 @@
+{
+  "domain": "gexwalltool.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "FortiGuard Labs documents Casbaneiro transmitting base64-encoded victim information to a data-receiving server that returns HTTP 403, and its Figure 6 shows the malware request using Host: gexwalltool.com. The 403 response is part of the malware’s expected behavior, not evidence the server is benign or inactive; this exact host is used for malware data exfiltration/C2. Fortinet dates the campaign to August 2026 but gives no exact observation date for this hostname; dateObserved 2026-10-16 is my source confirmation date, not firsthand traffic observation. Source: FortiGuard Labs, \"Casbaneiro: A Banking Trojan with Distributed Data-Receiving Servers\", published 2026-09-10: https://www.fortinet.com/blog/threat-research/casbaneiro-a-banking-trojan-with-distributed-data-receiving-servers."
+}
