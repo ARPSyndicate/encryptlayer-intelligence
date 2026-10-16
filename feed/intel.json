@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-14T14:02:45Z",
+  "generatedAt": "2026-10-16T06:41:44Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -722,6 +722,198 @@
       "domain": "jiekou.baojingtextile.cn",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "sincereaccertain.com",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "fearevolve.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "insightenterprisells.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "jobmarcher.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "plasticbells.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "outdooutcome.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "suggestutterly.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "pagead.trustlayersdk.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "keyadapter.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "sharethere.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "tekma.adtimizer.co",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "dtech.adtimizer.co",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "adv45.volasim.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "adv50.volasim.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.controlium.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "logger.powerium.net",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "mtrtb.com",
+      "matchSubdomains": true,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "mydsp.io",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "noas.adtimizer.co",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "events.platc-tester.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "noas.impchkdsp.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "noas.powerium.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "qa-noas.powerium.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "noas.trakking.co",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "powerium.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "tekma-dmp.ai",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "ads-monitor.xyz",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "checkmyimp.com",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "cookie-sync.xyz",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "LOW"
+    },
+    {
+      "domain": "cookiesurfer.com",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "nutralove.co",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "tracookiepixel.xyz",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
       "severity": "MEDIUM"
     }
   ],
