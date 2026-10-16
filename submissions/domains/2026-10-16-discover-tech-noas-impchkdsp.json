@@ -1,0 +1,9 @@
+{
+  "domain": "noas.impchkdsp.com",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab lists this as an additional NOAS domain that appears associated with Discover-Tech; the report explains NOAS servers can return JavaScript for targeted ads, but does not separately document this host's runtime behavior. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

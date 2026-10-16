@@ -1,0 +1,9 @@
+{
+  "domain": "adv45.volasim.com",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab identifies this exact host as an instance of Discover-Tech’s Controlium control panel, which enables mercenary spyware customers to target users and push malicious content through ads. The submission is limited to this host because Volasim also publishes unrelated apps. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "pagead.trustlayersdk.com",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant observed the Candiru-attributed delivery iframe initializing an SDK against this endpoint and lists it as an SDK C2 indicator in the same code chain. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "tekma-dmp.ai",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant links this data-management platform to Discover-Tech through shared site infrastructure and describes its capabilities as aligned with advertising intelligence; it is listed in the report indicators. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}

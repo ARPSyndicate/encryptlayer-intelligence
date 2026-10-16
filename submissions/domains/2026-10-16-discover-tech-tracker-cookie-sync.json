@@ -1,0 +1,9 @@
+{
+  "domain": "cookie-sync.xyz",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "LOW",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant identifies this as a Discover-Tech cookie-matching domain, notes it did not appear actively used during observation, and reports it was suspended on October 1, 2026. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}

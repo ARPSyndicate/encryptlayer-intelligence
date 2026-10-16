@@ -1,0 +1,9 @@
+{
+  "domain": "logger.powerium.net",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab observed NOAS-generated code loading logger.powerium.net/register_event with user ID, app bundle, domain, and device fields, identifying it as an event-logging endpoint in Discover-Tech tracking infrastructure. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

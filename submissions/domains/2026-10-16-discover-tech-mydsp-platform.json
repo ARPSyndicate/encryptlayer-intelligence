@@ -1,0 +1,9 @@
+{
+  "domain": "mydsp.io",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab identifies MyDSP as Discover-Tech’s ad-buying platform and lists mydsp.io among domains linked to Discover-Tech; the platform participates in the targeted ad operation documented in the report. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}

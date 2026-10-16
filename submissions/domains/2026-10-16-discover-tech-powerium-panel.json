@@ -1,0 +1,9 @@
+{
+  "domain": "powerium.net",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Citizen Lab identifies this exact host as a Controlium instance used by mercenary spyware customers to target users for profiling or infection; the report also documents NOAS and event-logging services on its subdomains. Source confirmation on 2026-10-16 (not firsthand traffic observation). https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+}
