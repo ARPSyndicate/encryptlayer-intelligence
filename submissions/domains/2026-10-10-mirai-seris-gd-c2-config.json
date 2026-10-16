@@ -1,0 +1,9 @@
+{
+  "domain": "seris.gd",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-10",
+  "reportedBy": "Aether-0",
+  "evidence": "KSI Digital captured a Mirai bot on 2026-10-09 repeatedly querying seris.gd. The report shows that its DNS answers hold XOR-encoded command-server addresses and confirms the decoded servers responded during a controlled live check on 2026-10-10. The exact domain is a malware C2 configuration domain; this submission records the source's 2026-10-10 observation and does not claim current reachability. Source: KSI Digital, ‘A Mirai botnet that hides its servers in plain DNS’, published 2026-10-10: https://www.ksi-digital.com/en/blog/mirai-xor-dns-c2/; technical indicators: https://github.com/ksi-digital/threat-research/blob/main/mirai-dns-xor-c2/iocs.csv"
+}
