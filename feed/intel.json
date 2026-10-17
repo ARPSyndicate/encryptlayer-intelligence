@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-16T10:12:08Z",
+  "generatedAt": "2026-10-17T19:24:29Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -178,6 +178,18 @@
     },
     {
       "network": "120.78.215.151",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "45.61.157.22",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "8.218.65.184",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
@@ -726,6 +738,84 @@
     },
     {
       "domain": "jiekou.baojingtextile.cn",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "joinconnect.cfd",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "joinconnect.works",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "joinhire.cfd",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "joinhire.info",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "joinquest.cfd",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "joinquest.info",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "joinquest.works",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "jointhetalent.cfd",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "jointhetalent.info",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "jointhetalent.works",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "jointheteam.cfd",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "dns.educationportals.biz",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "storage-data.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
