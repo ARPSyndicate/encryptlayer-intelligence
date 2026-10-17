@@ -1,0 +1,9 @@
+{
+  "network": "8.218.65.184",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-15",
+  "reportedBy": "Aether-0",
+  "evidence": "Google GTIG/Mandiant identified this IP as a historical SHINYROAD C2 server; 2026-10-15 is the report publication/source-confirmation date, not a claim of current activity. The report describes the infrastructure and its role in the UNC7017 malware campaign: https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/"
+}

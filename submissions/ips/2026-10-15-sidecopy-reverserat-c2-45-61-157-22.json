@@ -1,0 +1,9 @@
+{
+  "network": "45.61.157.22",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-15",
+  "reportedBy": "Aether-0",
+  "evidence": "India's Cyber Swachhta Kendra alert issued 2026-10-15 lists 45.61.157.22 as the SideCopy/ReverseRAT C2 IP. Trellix confirms encrypted exfiltration to the host over TCP 5863 from the malware and resolves dns.educationportals.biz to it; source confirmation does not establish current activity: https://www.trellix.com/blogs/research/sidecopy-threat-intel-mshta-execution-rat-deployment/ Government alert: https://www.csk.gov.in/alerts/ReverseRAT-malware-SideCopy-Spear-Phishing-Campaign.html"
+}

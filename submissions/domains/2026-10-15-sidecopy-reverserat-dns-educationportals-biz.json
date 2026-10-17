@@ -1,0 +1,9 @@
+{
+  "domain": "dns.educationportals.biz",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-15",
+  "reportedBy": "Aether-0",
+  "evidence": "India's Cyber Swachhta Kendra alert issued 2026-10-15 lists dns.educationportals.biz as SideCopy/ReverseRAT C2. Trellix independently describes the hostname as the exfiltration C2 over TCP 5863, resolved to 45.61.157.22; this is source confirmation, not a current reachability check: https://www.trellix.com/blogs/research/sidecopy-threat-intel-mshta-execution-rat-deployment/ Government alert: https://www.csk.gov.in/alerts/ReverseRAT-malware-SideCopy-Spear-Phishing-Campaign.html"
+}

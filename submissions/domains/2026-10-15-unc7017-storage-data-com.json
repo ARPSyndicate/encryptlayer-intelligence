@@ -1,0 +1,9 @@
+{
+  "domain": "storage-data.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-15",
+  "reportedBy": "Aether-0",
+  "evidence": "Google GTIG/Mandiant identifies storage-data.com as a UNC7017 threat-actor domain and states SHINYROAD used it for secondary payload retrieval and C2; 2026-10-15 is source-confirmation date, not a claim of current activity: https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/"
+}
