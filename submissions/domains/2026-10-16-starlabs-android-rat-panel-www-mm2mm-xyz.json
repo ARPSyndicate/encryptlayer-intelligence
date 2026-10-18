@@ -1,0 +1,9 @@
+{
+  "domain": "www.mm2mm.xyz",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-16",
+  "reportedBy": "Aether-0",
+  "evidence": "STAR Labs' 2026-10-17 analysis lists www.mm2mm.xyz as a C2 host and operator panel for the Black Hawk/Eagle Android WebSocket RAT, and says it was live on 2026-10-16. Scope is limited to this exact host. Source: https://starlabs.sg/blog/2026/10-two-hawks-in-a-pod-one-android-rat-behind-a-flock-of-fake-japanese-brands/"
+}
