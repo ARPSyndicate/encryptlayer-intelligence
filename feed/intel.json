@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-17T19:24:29Z",
+  "generatedAt": "2026-10-18T20:04:01Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -193,6 +193,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "104.194.158.65",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "domainEntries": [
@@ -302,6 +308,12 @@
       "domain": "ieyoqrhtz.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "fosetya.shop",
+      "matchSubdomains": false,
+      "category": "PHISHING",
       "severity": "MEDIUM"
     },
     {
@@ -1017,6 +1029,18 @@
       "matchSubdomains": false,
       "category": "ADWARE_TRACKER",
       "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.hyzj.shop",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "www.mm2mm.xyz",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     }
   ],
   "ja3Entries": [],
