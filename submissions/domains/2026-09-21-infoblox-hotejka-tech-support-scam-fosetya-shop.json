@@ -1,0 +1,9 @@
+{
+  "domain": "fosetya.shop",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-09-21",
+  "reportedBy": "Aether-0",
+  "evidence": "Infoblox's 2026-10-15 analysis records fosetya.shop serving a Hotejka tech-support scam landing page on 2026-09-21 and documents its CNAME to the Hotejka-controlled hotcname.help. The date is historical and does not assert the page remains active today; this entry is scoped to the observed affiliate page host. Source: https://www.infoblox.com/blog/threat-intelligence/inside-help-tds-hotejka-cloudflare-pages-and-predictive-detection/"
+}

@@ -1,0 +1,9 @@
+{
+  "network": "104.194.158.65",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-18",
+  "reportedBy": "Aether-0",
+  "evidence": "Unit 42's 2026-10-15 analysis identifies 104.194.158.65:443 as SysGoRAT's hardcoded WebSocket C2, which supports remote commands and file/screenshot functions. The report describes campaign activity from 2025-10 through 2026-04; dateObserved is source confirmation on 2026-10-18, not evidence of current reachability. Source: https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/"
+}
