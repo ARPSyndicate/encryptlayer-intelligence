@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-18T20:04:01Z",
+  "generatedAt": "2026-10-19T14:11:15Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -193,6 +193,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "193.32.204.199",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     },
     {
       "network": "104.194.158.65",
@@ -1041,6 +1047,150 @@
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "domain": "cihqobpe.receivewelfarebenefits.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "datingparadise.vip",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "echo.mmaldwh.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "h5.filmandtelevisionproducts.shop",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "v-game.eu.cc",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "whtas.me",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "tnt.freedomdf.xyz",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.chengdg.shop",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.collectpointsjp.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.heiyingnb.xyz",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.knjw.shop",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.mangcun.xyz",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.mengm.shop",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "www.wlnm.shop",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d147nolwbekx2b.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d19oo8r6k9oumb.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d1fzw0miu1r9rc.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d1x4e580sn23dn.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d23625plpxg1yn.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d2epnp0vokbtl7.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d2f4zpg1mgzwov.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d39619tdxn6mhj.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "dcv2rnj2ograe.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "d8lmy5wyiokrq.cloudfront.net",
+      "matchSubdomains": false,
+      "category": "ADWARE_TRACKER",
+      "severity": "LOW"
     }
   ],
   "ja3Entries": [],
