@@ -1,0 +1,9 @@
+{
+  "domain": "www.knjw.shop",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-17",
+  "reportedBy": "Aether-0",
+  "evidence": "STAR Labs lists this exact host as a C2 endpoint for its Black Hawk/Eagle Android WebSocket RAT, observed in 8 of the 64 analyzed samples. Date is source confirmation on 2026-10-17, not firsthand traffic observation; only this exact hostname is submitted. Source: https://www.starlabs.sg/blog/2026/10-two-hawks-in-a-pod-one-android-rat-behind-a-flock-of-fake-japanese-brands/"
+}
