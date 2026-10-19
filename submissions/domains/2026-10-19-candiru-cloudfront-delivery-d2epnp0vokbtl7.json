@@ -1,0 +1,9 @@
+{
+  "domain": "d2epnp0vokbtl7.cloudfront.net",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2025-12-02",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant lists this exact hostname under the Candiru CloudFront delivery layer for the older ?qq= pattern. The report says this related pattern was observed on 2025-12-02; this record does not claim current reachability. Match only this hostname, not CloudFront broadly. Source confirmation on 2026-10-19. Source: https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}
