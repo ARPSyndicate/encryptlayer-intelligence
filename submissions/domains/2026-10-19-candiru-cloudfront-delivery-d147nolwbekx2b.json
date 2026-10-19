@@ -1,0 +1,9 @@
+{
+  "domain": "d147nolwbekx2b.cloudfront.net",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-19",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant lists this exact hostname under the Candiru CloudFront delivery layer for its ?impid= spyware chain; the report shows the iframe loading code from this distribution and separately maps the SDK command channel. Match only this hostname, not CloudFront broadly. Source confirmation on 2026-10-19, not firsthand traffic observation or a claim of current reachability. Source: https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "v-game.eu.cc",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-17",
+  "reportedBy": "Aether-0",
+  "evidence": "STAR Labs lists this exact hostname in its \u201cAttacker phishing fronts\u201d table as a game front, and explains that attacker-built cover pages are the pages opened by the malicious Android apps. It is associated with the Black Hawk/Eagle RAT operation. Date is source confirmation on 2026-10-17, not firsthand traffic observation; scope is limited to this exact host. Source: https://www.starlabs.sg/blog/2026/10-two-hawks-in-a-pod-one-android-rat-behind-a-flock-of-fake-japanese-brands/"
+}

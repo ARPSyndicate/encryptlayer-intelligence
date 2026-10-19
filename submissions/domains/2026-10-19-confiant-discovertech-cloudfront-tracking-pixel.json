@@ -1,0 +1,9 @@
+{
+  "domain": "d8lmy5wyiokrq.cloudfront.net",
+  "matchSubdomains": false,
+  "category": "ADWARE_TRACKER",
+  "severity": "LOW",
+  "dateObserved": "2026-10-19",
+  "reportedBy": "Aether-0",
+  "evidence": "Confiant lists this exact host as a 1x1 tracking pixel in Discover-Tech’s ADINT infrastructure. Match only this CloudFront hostname; the report does not identify the wider CloudFront service as malicious. Source confirmation on 2026-10-19, not firsthand traffic observation or a claim of current reachability. Source: https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming"
+}
