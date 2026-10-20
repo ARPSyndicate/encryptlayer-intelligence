@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-19T14:11:15Z",
+  "generatedAt": "2026-10-20T11:09:47Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -202,6 +202,24 @@
     },
     {
       "network": "104.194.158.65",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "2a09:bac5:4e21:2e3c::49b:9",
+      "prefixLength": 128,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "96.62.218.59",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "43.250.53.42",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
@@ -1191,6 +1209,12 @@
       "matchSubdomains": false,
       "category": "ADWARE_TRACKER",
       "severity": "LOW"
+    },
+    {
+      "domain": "wizardexpensive.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     }
   ],
   "ja3Entries": [],
