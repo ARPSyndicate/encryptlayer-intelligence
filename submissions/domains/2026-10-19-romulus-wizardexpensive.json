@@ -1,0 +1,9 @@
+{
+  "domain": "wizardexpensive.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-19",
+  "reportedBy": "Aether-0",
+  "evidence": "Siemens ProductCERT lists wizardexpensive.com as active payload-hosting and command-and-control infrastructure in the CVE-2026-110936 campaign; the report says it was reachable when published on 2026-10-19. Exact-host scope only. Source: https://cert-portal.siemens.com/news/2026/10/19/active-exploitation-of-cve-2026-110936-in-siemens-software-center/"
+}

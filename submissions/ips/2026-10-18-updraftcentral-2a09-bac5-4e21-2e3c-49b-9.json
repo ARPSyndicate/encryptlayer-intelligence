@@ -1,0 +1,9 @@
+{
+  "network": "2a09:bac5:4e21:2e3c::49b:9",
+  "prefixLength": 128,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-18",
+  "reportedBy": "Aether-0",
+  "evidence": "Patchstack's telemetry lists 2a09:bac5:4e21:2e3c::49b:9 as an attacker source address in its 2026-10-19 report on the 18-19 October UpdraftCentral backdoor deployment campaign. Nethemba independently documents signed plugin-upload commands used to install the backdoors. This is the actor's command-origin infrastructure: https://www.patchstack.com/articles/updraftcentral-key-compromise-wordpress-backdoors/ ; https://nethemba.com/updraftcentral-backdoor-analysis/"
+}
