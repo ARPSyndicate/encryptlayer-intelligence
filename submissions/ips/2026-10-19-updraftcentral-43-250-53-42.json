@@ -1,0 +1,9 @@
+{
+  "network": "43.250.53.42",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-19",
+  "reportedBy": "Aether-0",
+  "evidence": "Nethemba's 2026-10-19 access logs and UpdraftCentral command log tie 43.250.53.42 to signed plugin.upload_plugin commands that installed malicious backdoor plugins on connected WordPress sites. This is the actor's command-origin infrastructure for the backdoor deployment; Patchstack independently corroborated the incident and its attacker source infrastructure: https://nethemba.com/updraftcentral-backdoor-analysis/ ; https://www.patchstack.com/articles/updraftcentral-key-compromise-wordpress-backdoors/"
+}

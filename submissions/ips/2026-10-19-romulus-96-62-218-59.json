@@ -1,0 +1,9 @@
+{
+  "network": "96.62.218.59",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-19",
+  "reportedBy": "Aether-0",
+  "evidence": "Siemens ProductCERT lists 96.62.218.59 as active payload-hosting and command-and-control infrastructure in the CVE-2026-110936 campaign; it was reachable when the report was published on 2026-10-19. Source: https://cert-portal.siemens.com/news/2026/10/19/active-exploitation-of-cve-2026-110936-in-siemens-software-center/"
+}
