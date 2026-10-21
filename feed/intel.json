@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-20T11:09:47Z",
+  "generatedAt": "2026-10-21T06:20:35Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -34,6 +34,12 @@
     },
     {
       "network": "92.119.164.50",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "185.82.218.119",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
@@ -1215,6 +1221,36 @@
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "domain": "dc.cathaypacifice.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "net.dpworldto.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "iseekaigogo.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "hutspotmaken.eu",
+      "matchSubdomains": true,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "cubedesign.co.kr",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "ja3Entries": [],
