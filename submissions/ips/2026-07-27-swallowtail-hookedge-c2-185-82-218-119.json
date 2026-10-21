@@ -1,0 +1,9 @@
+{
+  "network": "185.82.218.119",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-07-27",
+  "reportedBy": "Aether-0",
+  "evidence": "Symantec documents 185.82.218.119 as Hookedge C2 infrastructure used to request tasks, return results, and maintain access; its report states this activity began July 27, 2026 and continued through September 24. https://www.security.com/blog-post/swallowtail-russia-nato-targets"
+}

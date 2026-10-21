@@ -1,0 +1,9 @@
+{
+  "domain": "cubedesign.co.kr",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-21",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky Securelist identifies cubedesign.co.kr as Cubridge C2 infrastructure in its October 21, 2026 Operation FlashHole report. The analyzed sample uses the host at /news and /mobile/fashion paths for C2; the report describes historical campaign activity and does not establish current activity. October 21 is the report/source-confirmation date. https://securelist.ru/lazarus-operation-flashhole/117319/"
+}
