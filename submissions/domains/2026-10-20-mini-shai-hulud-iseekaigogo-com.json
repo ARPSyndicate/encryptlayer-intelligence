@@ -1,0 +1,9 @@
+{
+  "domain": "iseekaigogo.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-20",
+  "reportedBy": "Aether-0",
+  "evidence": "Checkmarx lists iseekaigogo.com as the Mini Shai-Hulud command-and-control domain and describes the malware using HTTPS C2 to evaluate operator-supplied JavaScript. October 20, 2026 is the report/source-confirmation date; the report does not give a separate first-seen date for this domain. https://checkmarx.com/zero-post/mini-shai-hulud-in-tensorlake-a-token-monitor-that-can-wipe-your-home-directory/"
+}

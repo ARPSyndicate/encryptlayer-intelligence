@@ -1,0 +1,9 @@
+{
+  "domain": "hutspotmaken.eu",
+  "matchSubdomains": true,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-20",
+  "reportedBy": "Aether-0",
+  "evidence": "LevelBlue SpiderLabs identifies hutspotmaken.eu as Wazza phishing infrastructure in its October 20, 2026 report and documents the check.hutspotmaken.eu routing host and a randomized subdomain serving the malicious preloader for Microsoft 365 device-code phishing. The report confirms the domain as campaign infrastructure; October 20 is the source-confirmation date, not a first-seen traffic date. https://www.levelblue.com/blogs/spiderlabs-blog/inside-wazza-a-newly-observed-device-code-phishing-kit-targeting-microsoft-365-accounts"
+}

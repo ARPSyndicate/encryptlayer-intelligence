@@ -1,0 +1,9 @@
+{
+  "domain": "net.dpworldto.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-20",
+  "reportedBy": "Aether-0",
+  "evidence": "Sophos identifies net.dpworldto.com as a BRONZE SANDCASTLE C2 server; the report says the modified Meterpreter payload sends host and process information to its C2. October 20, 2026 is the source-confirmation date, not a separately stated first-seen date. https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells"
+}
