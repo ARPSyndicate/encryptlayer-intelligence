@@ -1,0 +1,9 @@
+{
+  "network": "132.243.221.136",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "ThreatLocker MDR published its Chimera C2 analysis on 2026-10-21. It shows the malware opening a WebSocket to this hard-coded address and receiving commands from it. DateObserved is the 2026-10-22 source-confirmation date for this review, not a claim of first-hand traffic capture. https://www.threatlocker.com/blog/threatlocker-mdr-team-intercepts-chimera-c2-clickfix-attack"
+}

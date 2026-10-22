@@ -1,0 +1,9 @@
+{
+  "network": "138.124.113.210",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "SOCRadar STRU published its investigation on 2026-10-20 and identifies this address as the Ghost panel among exposed adversary-controlled infrastructure used by INC and The Gentlemen affiliates. The report also describes Ghost as C2 tooling. DateObserved is the 2026-10-22 source-confirmation date; no claim is made that the host remains active today. https://socradar.io/blog/inc-gentlemen-ransomware-ai-infrastructure/"
+}

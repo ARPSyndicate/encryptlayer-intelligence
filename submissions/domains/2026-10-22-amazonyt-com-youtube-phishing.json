@@ -1,0 +1,9 @@
+{
+  "domain": "amazonyt.com",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Malwarebytes published this campaign analysis on 2026-10-21 and identifies this host as the fake Amazon Music creator portal that leads victims into a Google sign-in trap. DateObserved is the 2026-10-22 source-confirmation date; this is report evidence, not first-hand traffic capture. https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap"
+}
