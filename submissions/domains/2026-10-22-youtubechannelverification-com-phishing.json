@@ -1,0 +1,9 @@
+{
+  "domain": "youtubechannelverification.com",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Malwarebytes published this campaign analysis on 2026-10-21. It shows this second-stage host collecting the victim’s Google email and password and supporting MFA challenges, and lists it as an IOC. DateObserved is the 2026-10-22 source-confirmation date. https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap"
+}

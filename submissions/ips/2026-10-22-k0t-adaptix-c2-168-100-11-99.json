@@ -1,0 +1,9 @@
+{
+  "network": "168.100.11.99",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Group-IB and NyxLab published the k0t investigation on 2026-10-21 and list this address as an AdaptixC2 server in the Network IOCs. DateObserved is the 2026-10-22 source-confirmation date; the report does not give a separate observation date for this address. https://www.group-ib.com/blog/stray-cat-network-edge/"
+}

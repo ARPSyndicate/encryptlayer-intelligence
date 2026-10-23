@@ -1,0 +1,9 @@
+{
+  "network": "154.217.251.226",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "Sekoia TDR’s Flowise honeypot report, publicly posted 2026-10-19, attributes the observed attack to this IP and says it was also used as a callback address. The article notes that the report had previously been distributed privately to customers on 2026-09-07; the underlying telemetry predates public release. DateObserved is the 2026-10-22 source-confirmation date, not first-hand traffic capture. https://www.sekoia.com/blog/a-honeypots-tale-deconstructing-an-attack-on-genai-infrastructure"
+}

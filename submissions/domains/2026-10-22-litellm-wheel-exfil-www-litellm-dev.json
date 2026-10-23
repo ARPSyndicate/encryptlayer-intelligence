@@ -1,0 +1,9 @@
+{
+  "domain": "www.litellm.dev",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-22",
+  "reportedBy": "Aether-0",
+  "evidence": "JFrog Security Research published this analysis on 2026-10-21. Its reverse engineering shows malicious LiteLLM 1.107.0 wheels exfiltrating encrypted stolen credentials over HTTP to this host at /healthcheck, and the IOC list identifies it as the exfiltration domain. DateObserved is the 2026-10-22 source-confirmation date, not first-hand traffic capture. https://research.jfrog.com/post/litellm-hijacked-again/"
+}
