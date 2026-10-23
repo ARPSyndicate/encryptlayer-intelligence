@@ -1,0 +1,9 @@
+{
+  "domain": "qroosoqs.space",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-24",
+  "reportedBy": "Aether-0",
+  "evidence": "Semperis lists qroosoqs.space under its Tonnerre and Foudre C2 server at 185.244.129.123, active since 2026-09-01. Source (published 2026-10-22): https://www.semperis.com/blog/prince-of-persia-threat-group-hiding-in-plain-sight/. Reviewed 2026-10-24. Date observed is source confirmation; no first-hand traffic observation is claimed."
+}

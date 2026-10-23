@@ -1,0 +1,9 @@
+{
+  "network": "185.244.129.123",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-24",
+  "reportedBy": "Aether-0",
+  "evidence": "Semperis identifies 185.244.129.123 as a C2 server for Prince of Persia Tornado first-stage, Tonnerre, and Foudre, active since 2026-09-01. Source (published 2026-10-22): https://www.semperis.com/blog/prince-of-persia-threat-group-hiding-in-plain-sight/. Reviewed 2026-10-24. Date observed is the source-confirmation date; no first-hand traffic observation is claimed."
+}
