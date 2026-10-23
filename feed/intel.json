@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-21T06:20:35Z",
+  "generatedAt": "2026-10-23T14:32:22Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -229,6 +229,30 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "132.243.221.136",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "154.217.251.226",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "138.124.113.210",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "168.100.11.99",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     }
   ],
   "domainEntries": [
@@ -1251,6 +1275,42 @@
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "domain": "amazonyt.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "mesh.buttruyen.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "meshcentral.girydsfsggvb.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "radesashar.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "www.litellm.dev",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "youtubechannelverification.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
     }
   ],
   "ja3Entries": [],
