@@ -1,0 +1,9 @@
+{
+  "domain": "fegrs.adidasabc.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-24",
+  "reportedBy": "Aether-0",
+  "evidence": "Zimperium reports live RatHat intrusion logs showing the malicious Android package resolving fegrs.adidasabc.com and maintaining HTTPS C2 every 60–90 seconds. The report identifies this exact hostname as the active remote C2. Source (published 2026-10-22): https://zimperium.com/blog/beyond-the-sandbox-leveraging-android-intrusion-logs-to-expose-advanced-threats. Reviewed 2026-10-24; date observed is source confirmation, not first-hand traffic."
+}

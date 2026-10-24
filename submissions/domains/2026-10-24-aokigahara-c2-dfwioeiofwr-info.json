@@ -1,0 +1,9 @@
+{
+  "domain": "dfwioeiofwr.info",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-24",
+  "reportedBy": "Aether-0",
+  "evidence": "Check Point Research lists dfwioeiofwr.info as Aokigahara command-and-control infrastructure. Its technical analysis describes the encrypted C2 configuration and upload traffic, including the /gate/complete endpoint. Source (published 2026-10-23): https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/. Reviewed 2026-10-24. Date observed is the source-confirmation date; no first-hand traffic observation is claimed."
+}

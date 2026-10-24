@@ -1,0 +1,9 @@
+{
+  "domain": "emcwoyqtplckl.privatedns.org",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-24",
+  "reportedBy": "Aether-0",
+  "evidence": "Semperis lists emcwoyqtplckl.privatedns.org under the Tornado second-stage C2 server (68.65.122.203), active since July 2026. The submission is limited to this exact C2 hostname; the report notes the hosting IP is shared and is excluded. Source (published 2026-10-22): https://www.semperis.com/blog/prince-of-persia-threat-group-hiding-in-plain-sight/. Reviewed 2026-10-24. Date observed is the source-confirmation date; no first-hand traffic observation is claimed."
+}
