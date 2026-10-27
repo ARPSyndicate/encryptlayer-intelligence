@@ -1,0 +1,9 @@
+{
+  "domain": "toolsep.biz",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-28",
+  "reportedBy": "Aether-0",
+  "evidence": "Have I Been Squatted's October 27, 2026 reverse-engineering report identifies toolsep.biz as a Lumma Stealer v6 C2 endpoint (one of nine hardcoded domains or the Steam-profile fallback) and says the ten domains resolved to a shared server in its October 27 snapshot. ProjectDiscovery httpx v1.12.0 HEAD checks on 2026-10-28: no DNS address on HTTP or HTTPS; these checks do not verify C2 behavior or establish current activity. Source: https://haveibeensquatted.com/blog/when-a-fake-tv-torrent-delivers-lumma-stealer."
+}
