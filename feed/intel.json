@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-27T17:39:30Z",
+  "generatedAt": "2026-10-27T17:40:12Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -259,6 +259,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "network": "185.114.206.45",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     },
     {
       "network": "91.92.43.45",
@@ -1481,6 +1487,12 @@
       "severity": "HIGH"
     },
     {
+      "domain": "dubaitechnicalservice.ae",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
       "domain": "datamons.org",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
@@ -1502,6 +1514,18 @@
       "domain": "supertrap.net",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "calm-piano-floats-313.dedyn.io",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "3zciedc3enu4muwc5adxciyk6u3juhvhvbv6bfrk2arawlvb7k7ovxad.onion",
+      "matchSubdomains": false,
+      "category": "MINING_POOL",
       "severity": "MEDIUM"
     }
   ],
