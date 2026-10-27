@@ -1,0 +1,9 @@
+{
+  "network": "93.152.213.215",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-26",
+  "reportedBy": "Aether-0",
+  "evidence": "Varonis Threat Labs recovered a Stadia RAT build and reports it POSTing to 93.152.213.215 over HTTP as one of three hard-coded C2 addresses; this is specific to the analyzed build. Report updated 2026-10-22: https://www.varonis.com/blog/stealc-returns. Confirmed from the report on 2026-10-26; no claim is made that later builds retain this address."
+}

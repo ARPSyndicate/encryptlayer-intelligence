@@ -1,0 +1,9 @@
+{
+  "domain": "niceer.net",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-26",
+  "reportedBy": "Aether-0",
+  "evidence": "Zscaler ThreatLabz lists niceer.net as standby Armorsteal C2 infrastructure; report published 2026-10-22: https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware. Confirmed from the report on 2026-10-26; httpx found no address for HTTP or HTTPS. Standby infrastructure, not current use, is reported."
+}

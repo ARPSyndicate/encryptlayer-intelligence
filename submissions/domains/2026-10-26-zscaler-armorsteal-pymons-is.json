@@ -1,0 +1,9 @@
+{
+  "domain": "pymons.is",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-26",
+  "reportedBy": "Aether-0",
+  "evidence": "Zscaler ThreatLabz identifies pymons.is as an Armorsteal command-and-control domain used after the previous C2 became unavailable; report published 2026-10-22: https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware. ProjectDiscovery httpx v1.12.0 confirmed HTTP 301 to HTTPS and HTTPS 200 on 2026-10-26, resolving to 186.2.175.158; this confirms reachability only, not current C2 behavior."
+}
