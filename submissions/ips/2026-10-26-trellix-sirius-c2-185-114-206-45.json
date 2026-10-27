@@ -1,0 +1,9 @@
+{
+  "network": "185.114.206.45",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-26",
+  "reportedBy": "Aether-0",
+  "evidence": "Trellix’s October 26 analysis decodes the Sirius Backdoor sample configuration and identifies 185.114.206.45:4449 as its primary C2 address and port. This is the exact /32 embedded in the analyzed sample; the source does not establish current reachability or use by later variants. Source: https://www.trellix.com/blogs/research/sirius-backdoor-fileless-campaign-fedex-invoices/."
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "dubaitechnicalservice.ae",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-26",
+  "reportedBy": "Aether-0",
+  "evidence": "Trellix’s October 26 analysis identifies dubaitechnicalservice.ae as the server the Sirius injector uses to retrieve its final zeus.dat payload and includes the URL in its network indicators. ProjectDiscovery httpx HEAD checks on 2026-10-27 found no address for HTTP or HTTPS, so no current availability is claimed. Source: https://www.trellix.com/blogs/research/sirius-backdoor-fileless-campaign-fedex-invoices/."
+}

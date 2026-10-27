@@ -1,0 +1,9 @@
+{
+  "domain": "3zciedc3enu4muwc5adxciyk6u3juhvhvbv6bfrk2arawlvb7k7ovxad.onion",
+  "matchSubdomains": false,
+  "category": "MINING_POOL",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-27",
+  "reportedBy": "Aether-0",
+  "evidence": "Check Point Research’s October 27 analysis identifies this TLS-enabled Tor hidden service as the XMRig mining server used by the Yoba campaign’s final payload. The report documents the endpoint in the analyzed sample; no current availability is claimed. Source: https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/."
+}
