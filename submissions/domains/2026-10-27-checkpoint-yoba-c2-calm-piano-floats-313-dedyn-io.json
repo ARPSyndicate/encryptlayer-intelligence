@@ -1,0 +1,9 @@
+{
+  "domain": "calm-piano-floats-313.dedyn.io",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-27",
+  "reportedBy": "Aether-0",
+  "evidence": "Check Point Research’s October 27 analysis identifies this exact sample-generated domain in a Google DNS-over-HTTPS TXT request used by YobaLoader to retrieve signed command tasking. The domain is generated from the Telegram channel image and is sample-specific. ProjectDiscovery httpx HEAD checks on 2026-10-27 found no address for HTTP or HTTPS; this does not test the reported TXT-over-DoH path or establish current activity. Source: https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/."
+}
