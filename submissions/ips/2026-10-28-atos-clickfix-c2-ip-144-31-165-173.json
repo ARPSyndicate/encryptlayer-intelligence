@@ -1,0 +1,9 @@
+{
+  "network": "144.31.165.173",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-28",
+  "reportedBy": "Aether-0",
+  "evidence": "Atos AI's October 27 analysis identifies 144.31.165.173 as the origin IP for the cloudflare.report C2 used by the trojanized WorkFlowy implant, and lists it in the IOC appendix. Confirmed from the primary report on 2026-10-28; no current reachability or C2 activity is claimed. Scope is limited to this /32. Source: https://www.atos.ai/en/news-insights/blog/investigating-new-click-fix-variant."
+}
