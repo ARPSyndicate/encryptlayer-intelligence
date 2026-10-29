@@ -1,0 +1,9 @@
+{
+  "network": "87.120.196.120",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-29",
+  "reportedBy": "Aether-0",
+  "evidence": "Cisco Talos reported 87.120.196.120 as hosting the active NIK C2 server, with total-sitevv.lol resolving to it; source-confirmed from its 2026-10-29 report, not first-hand traffic observation: https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/."
+}

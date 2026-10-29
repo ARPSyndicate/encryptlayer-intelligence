@@ -1,0 +1,9 @@
+{
+  "domain": "js-static.cfd",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-28",
+  "reportedBy": "Aether-0",
+  "evidence": "SANS ISC observed js-static.cfd serving the fake Cloudflare verification page and its ClickFix scripts on 2026-10-28; exact host only, with no broader subdomain scope claimed: https://isc.sans.edu/diary/Yet%2BAnother%2BClickFix%2BCampaign/33466."
+}
