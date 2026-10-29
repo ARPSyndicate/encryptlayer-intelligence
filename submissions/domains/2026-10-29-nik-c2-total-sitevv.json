@@ -1,0 +1,9 @@
+{
+  "domain": "total-sitevv.lol",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-29",
+  "reportedBy": "Aether-0",
+  "evidence": "Cisco Talos identified total-sitevv.lol as resolving to 87.120.196.120, which hosted the active NIK C2 server; source-confirmed from its 2026-10-29 report, not first-hand traffic observation: https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/."
+}

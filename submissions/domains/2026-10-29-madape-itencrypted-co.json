@@ -1,0 +1,9 @@
+{
+  "domain": "itencrypted.co",
+  "matchSubdomains": false,
+  "category": "PHISHING",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-29",
+  "reportedBy": "Aether-0",
+  "evidence": "Group-IB listed https://itencrypted.co/816c04559c as a MadApe Microsoft Device Code phishing URL and identified itencrypted.co as an operator-panel host in the same deployment; source-confirmed from its 2026-10-29 report, not first-hand traffic observation: https://www.group-ib.com/blog/madape-microsoft-device-code-phishing-kit/."
+}
