@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-28T17:00:17Z",
+  "generatedAt": "2026-10-29T19:46:47Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -301,6 +301,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "87.120.196.120",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     }
   ],
   "domainEntries": [
@@ -1541,6 +1547,12 @@
       "severity": "MEDIUM"
     },
     {
+      "domain": "js-static.cfd",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
       "domain": "businway.cyou",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
@@ -1599,8 +1611,26 @@
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "domain": "itencrypted.co",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "total-sitevv.lol",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     }
   ],
   "ja3Entries": [],
-  "jarmEntries": []
+  "jarmEntries": [
+    {
+      "jarmHash": "28d28d28d00000000042d42d0000001f361a1bf80ed39a1e352adeb016a07b",
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    }
+  ]
 }
