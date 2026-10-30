@@ -1,0 +1,9 @@
+{
+  "network": "212.132.98.170",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-21",
+  "reportedBy": "Aether-0",
+  "evidence": "Pluto Security identifies this host as a gsocket backdoor host used by the linked vaishupv/xai-probe-v1 activity; network infrastructure was last observed 2026-10-21. Source: https://pluto.security/blog/hugging-face-malware-campaign-load-mine/."
+}

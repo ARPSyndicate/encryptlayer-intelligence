@@ -1,0 +1,9 @@
+{
+  "domain": "maxwintodaybtc.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-29",
+  "reportedBy": "Aether-0",
+  "evidence": "Air Security's 2026-10-29 analysis of the SolanaUpdateTools/solana-starter-kit payload recovered a NetSupport client32.ini with GatewayAddress and SecondaryGateway set to maxwintodaybtc.com:443; the report identifies it as the RAT's C2. This is source-confirmed on the report date, not firsthand traffic observation. Source: https://www.air.security/blog-posts/solanacry."
+}
