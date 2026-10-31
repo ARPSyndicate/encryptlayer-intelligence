@@ -1,0 +1,9 @@
+{
+  "domain": "openaigpt4v.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-29",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky’s 2026-10-29 Securelist analysis shows NetamLoader using https://openaigpt4v.com/model_v4/ as its command-and-control endpoint; the report notes the domain was first seen in 2023 and describes activity in the first half of 2026, so this is the source-confirmation date rather than a firsthand traffic date. The reported IP is Cloudflare-shared and is excluded. https://securelist.com/netamloader/121676/"
+}

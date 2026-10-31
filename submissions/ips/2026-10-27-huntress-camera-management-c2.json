@@ -1,0 +1,9 @@
+{
+  "network": "144.172.116.37",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-10-27",
+  "reportedBy": "Aether-0",
+  "evidence": "Huntress reports that malware implants found in multiple camera-management software compromise incidents beaconed to 144.172.116.37 and lists it as a C2 IP; 2026-10-27 is the report publication/source-confirmation date because the article gives activity only as September–October 2026. https://www.huntress.com/blog/camera-management-software-compromise-malware"
+}
