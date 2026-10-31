@@ -1,0 +1,9 @@
+{
+  "network": "173.249.209.96",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-21",
+  "reportedBy": "Aether-0",
+  "evidence": "Pluto Security lists this host in the linked hl-family infrastructure, with command retrieval and result reporting at /task/<host> and /in/<host> and a separate C2 path on port 8000; network infrastructure was last observed 2026-10-21. Source: https://pluto.security/blog/hugging-face-malware-campaign-load-mine/."
+}

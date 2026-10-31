@@ -1,0 +1,9 @@
+{
+  "network": "212.32.253.3",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-21",
+  "reportedBy": "Aether-0",
+  "evidence": "Pluto Security reports this host as a reverse-shell receiver on ports 443/9443, a collector exfil endpoint on port 8895, and payload hosting on ports 8895/8898 for its Hugging Face malware investigation; network infrastructure was last observed 2026-10-21. Source: https://pluto.security/blog/hugging-face-malware-campaign-load-mine/."
+}

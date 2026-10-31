@@ -1,0 +1,9 @@
+{
+  "network": "2.28.9.199",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-10-21",
+  "reportedBy": "Aether-0",
+  "evidence": "Pluto Security lists this IP as a GPU/metadata exfiltration endpoint for the r1r13 activity in its Hugging Face malware investigation; network infrastructure was last observed 2026-10-21. Source: https://pluto.security/blog/hugging-face-malware-campaign-load-mine/."
+}
