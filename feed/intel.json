@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-31T08:52:50Z",
+  "generatedAt": "2026-10-31T21:08:02Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -319,6 +319,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "144.172.116.37",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
     },
     {
       "network": "144.31.165.173",
@@ -1638,6 +1644,12 @@
     },
     {
       "domain": "maxwintodaybtc.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "openaigpt4v.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
