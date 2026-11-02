@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-10-31T21:08:02Z",
+  "generatedAt": "2026-11-02T14:52:52Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -337,6 +337,18 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "network": "134.209.82.225",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "154.91.0.103",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "domainEntries": [
