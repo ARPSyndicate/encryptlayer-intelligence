@@ -1,0 +1,9 @@
+{
+  "network": "104.234.26.163",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-11-03",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky Securelist\u2019s \u201cCyberStrikeAI attacks educational institutions\u201d identifies 104.234.26.163 as payload delivery and command and control for the Linux beacon. Report published 2026-11-02; independently confirmed from the primary report on 2026-11-03, not firsthand traffic observation. https://securelist.com/tr/cyberstrikeai-attacks/121715/"
+}

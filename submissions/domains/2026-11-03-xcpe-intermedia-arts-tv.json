@@ -1,0 +1,9 @@
+{
+  "domain": "intermedia-arts.tv",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-03",
+  "reportedBy": "Aether-0",
+  "evidence": "Google Threat Intelligence Group\u2019s \u201cShutting the Door on the XCPE Botnet\u201d identifies intermedia-arts.tv as a fallback command-and-control host for XCPE system packages. Report published 2026-11-02; independently confirmed from the primary report on 2026-11-03, not firsthand traffic observation. https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet"
+}
