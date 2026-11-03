@@ -1,0 +1,9 @@
+{
+  "domain": "ott.szbboys.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-03",
+  "reportedBy": "Aether-0",
+  "evidence": "Google Threat Intelligence lists ott.szbboys.com as the XCPE host supporting file upload, download, and OTA updates. The report was published 2026-11-02 and describes the XCPE botnet disruption; this was independently confirmed from the primary report on 2026-11-03, not from firsthand traffic. https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet"
+}
