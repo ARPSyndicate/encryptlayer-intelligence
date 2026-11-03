@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-11-02T14:52:52Z",
+  "generatedAt": "2026-11-03T08:43:13Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -346,6 +346,36 @@
     },
     {
       "network": "154.91.0.103",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "104.234.26.163",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "185.186.245.144",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "network": "219.134.163.210",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "219.134.163.211",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "23.94.49.57",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
@@ -1677,6 +1707,48 @@
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "domain": "fastcdn.bar",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "media.fastcdn.bar",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "HIGH"
+    },
+    {
+      "domain": "intermedia-arts.tv",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "mqtt.szbboys.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "ott.szbboys.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "szbboys.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "yokatvonline.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "ja3Entries": [],
