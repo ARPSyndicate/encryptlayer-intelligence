@@ -1,0 +1,9 @@
+{
+  "domain": "img.fusfun.top",
+  "matchSubdomains": false,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-08-06",
+  "reportedBy": "Aether-0",
+  "evidence": "ESET Research lists img.fusfun.top as a DarkVigil bootstrap server, first seen 2026-08-06. ESET describes DarkVigil as a modular implant using its bootstrap/C2 architecture. Indicator independently confirmed in ESET’s primary report published 2026-11-04; not firsthand traffic. https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/"
+}

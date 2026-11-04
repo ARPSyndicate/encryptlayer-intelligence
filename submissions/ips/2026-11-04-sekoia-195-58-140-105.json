@@ -1,0 +1,9 @@
+{
+  "network": "195.58.140.105",
+  "prefixLength": 32,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-04",
+  "reportedBy": "Aether-0",
+  "evidence": "Sekoia Threat Detection & Research lists 195.58.140.105 as the IPv4 address of ad.starx-net.com, the exfiltration host for its Poisoned Source APT29 watering-hole campaign. Payloads send stolen cookies and device data to port 8881 at /telemetry/v12. Published 2026-11-04; confirmed from the primary report, not firsthand traffic. https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits"
+}
