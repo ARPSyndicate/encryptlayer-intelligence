@@ -1,0 +1,9 @@
+{
+  "network": "47.86.15.162",
+  "prefixLength": 32,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-08-08",
+  "reportedBy": "Aether-0",
+  "evidence": "ESET Research lists 47.86.15.162 as a DarkVigil bootstrap server, first seen 2026-08-08. ESET describes DarkVigil as a modular implant using its bootstrap/C2 architecture. This is an exact /32 from the report; independently confirmed from ESET’s primary report published 2026-11-04, not firsthand traffic. https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/"
+}
