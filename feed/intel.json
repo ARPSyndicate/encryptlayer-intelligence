@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-11-03T08:43:13Z",
+  "generatedAt": "2026-11-04T18:07:23Z",
   "ipEntries": [
     {
       "network": "178.128.14.204",
@@ -43,6 +43,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "HIGH"
+    },
+    {
+      "network": "47.86.15.162",
+      "prefixLength": 32,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
     },
     {
       "network": "194.62.249.53",
@@ -379,6 +385,12 @@
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
+    },
+    {
+      "network": "195.58.140.105",
+      "prefixLength": 32,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
     }
   ],
   "domainEntries": [
@@ -431,6 +443,12 @@
       "severity": "HIGH"
     },
     {
+      "domain": "blog.wangmengfun.top",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
       "domain": "nhyeoeaueesyih.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
@@ -452,6 +470,18 @@
       "domain": "reoineueryete.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "img.fusfun.top",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "update.mssproxy.net",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
       "severity": "MEDIUM"
     },
     {
@@ -1748,6 +1778,12 @@
       "domain": "yokatvonline.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "ad.starx-net.com",
+      "matchSubdomains": false,
+      "category": "SPYWARE_C2",
       "severity": "MEDIUM"
     }
   ],
