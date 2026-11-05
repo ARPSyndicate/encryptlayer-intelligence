@@ -1,0 +1,9 @@
+{
+  "network": "129.121.120.121",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-05",
+  "reportedBy": "Aether-0",
+  "evidence": "Cato explicitly identifies it as SimpleHelp command-and-control infrastructure and shows a blocked request to the campaign site with this destination IP; no completed remote-access session is claimed. Source published 2026-11-03; independently confirmed from the source on 2026-11-05 (not firsthand traffic observation). https://www.catonetworks.com/blog/cato-ctrl-research-suspected-iranian-muddywater-activity-using-israel-tax-authority-lures-simplehelp/"
+}

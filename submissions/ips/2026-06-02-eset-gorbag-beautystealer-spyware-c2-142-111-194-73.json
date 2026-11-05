@@ -1,0 +1,9 @@
+{
+  "network": "142.111.194.73",
+  "prefixLength": 32,
+  "category": "SPYWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-06-02",
+  "reportedBy": "Aether-0",
+  "evidence": "ESET Research lists 142.111.194.73 as the BeautyStealer exfiltration server, first seen 2026-06-02. The report describes BeautyStealer stealing browser credentials and files, then exfiltrating data to a custom C&C server. This records the source-reported first-seen date and does not claim current activity. https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/"
+}
