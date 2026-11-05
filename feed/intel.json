@@ -1,7 +1,13 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-11-04T18:07:23Z",
+  "generatedAt": "2026-11-05T18:09:39Z",
   "ipEntries": [
+    {
+      "network": "142.111.194.73",
+      "prefixLength": 32,
+      "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
     {
       "network": "178.128.14.204",
       "prefixLength": 32,
@@ -390,6 +396,24 @@
       "network": "195.58.140.105",
       "prefixLength": 32,
       "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "129.121.120.121",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "161.97.138.129",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "169.58.239.210",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
       "severity": "MEDIUM"
     }
   ],
@@ -1784,6 +1808,30 @@
       "domain": "ad.starx-net.com",
       "matchSubdomains": false,
       "category": "SPYWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "doc-taxes-govil.org",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "doc26-govil.org",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "document-govil.com",
+      "matchSubdomains": false,
+      "category": "PHISHING",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "document-govil.online",
+      "matchSubdomains": false,
+      "category": "PHISHING",
       "severity": "MEDIUM"
     }
   ],
