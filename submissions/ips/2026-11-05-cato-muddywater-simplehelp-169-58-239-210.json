@@ -1,0 +1,9 @@
+{
+  "network": "169.58.239.210",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-05",
+  "reportedBy": "Aether-0",
+  "evidence": "Cato lists 169.58.239.210 as a reported abused SimpleHelp server within the campaign network-infrastructure IOC table. Source published 2026-11-03; independently confirmed from the source on 2026-11-05 (not firsthand traffic observation). https://www.catonetworks.com/blog/cato-ctrl-research-suspected-iranian-muddywater-activity-using-israel-tax-authority-lures-simplehelp/"
+}
