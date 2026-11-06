@@ -1,0 +1,9 @@
+{
+  "domain": "lo1yaizaeghaevarood1ahtaichootaz.nofrillsdns.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-06",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky ICS CERT identifies this exact hostname among the command-and-control domains used for BO Team backdoors. The report describes the historical incident and says the operators activated the C2 during Kaspersky's research; it does not establish current activity. Source published 2026-11-05 and independently reviewed 2026-11-06 (not firsthand traffic observation). https://ics-cert.kaspersky.com/publications/reports/2026/11/05/supply-chain-attack-bo-team-in-a-software-developers-infrastructure/"
+}
