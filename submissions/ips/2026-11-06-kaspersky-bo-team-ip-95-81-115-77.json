@@ -1,0 +1,9 @@
+{
+  "network": "95.81.115.77",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-06",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky ICS CERT lists this exact IP among the addresses assigned to the DNS records of BO Team's C2 domains. Its analysis also describes the C2 delivering a shell script during controlled research interaction, while noting a later update endpoint returned HTTP 404. The report describes a historical incident and does not establish current activity. Source published 2026-11-05 and independently reviewed 2026-11-06 (not firsthand traffic observation). https://ics-cert.kaspersky.com/publications/reports/2026/11/05/supply-chain-attack-bo-team-in-a-software-developers-infrastructure/"
+}

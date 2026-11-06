@@ -1,0 +1,9 @@
+{
+  "domain": "cfgsync-relay.eastus.cloudapp.azure.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-06",
+  "reportedBy": "Aether-0",
+  "evidence": "Symantec's Threat Hunter Team lists this exact hostname as a network IOC for Backdoor.Lindnor and describes the backdoor sending host data to its primary or fallback C2 over port 443. The report covers an October 2026 intrusion and does not establish current malicious activity. This is an exact-host submission under shared Azure infrastructure (matchSubdomains=false). Source published 2026-11-05 and independently reviewed 2026-11-06 (not firsthand traffic observation). https://www.security.com/threat-intelligence/lindnor-new-backdoor-anubis-ransomware"
+}
