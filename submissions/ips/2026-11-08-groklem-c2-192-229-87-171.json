@@ -1,0 +1,9 @@
+{
+  "network": "192.229.87.171",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-08",
+  "reportedBy": "Aether-0",
+  "evidence": "STAR Labs lists this exact address as `C2 (mainip)` for a Groklem build; the command channel is raw TCP on port 9999, distinct from the other feature ports. Submission is limited to this /32. Source (published 2026-11-06): https://www.starlabs.sg/blog/2026/11-groklem-an-android-banker-that-rents-grok-to-read-your-texts/ Reviewed 2026-11-08; dateObserved is the source-confirmation date, not first-hand traffic."
+}
