@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-11-06T19:44:21Z",
+  "generatedAt": "2026-11-08T17:57:58Z",
   "ipEntries": [
     {
       "network": "142.111.194.73",
@@ -430,6 +430,42 @@
     },
     {
       "network": "95.81.115.77",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "154.198.53.150",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "192.229.87.171",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "192.238.176.169",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "192.238.176.179",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "203.91.75.232",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "45.192.214.73",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
@@ -1878,6 +1914,18 @@
     },
     {
       "domain": "msrcontrib.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "kenobuias.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "oscofneuid.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
