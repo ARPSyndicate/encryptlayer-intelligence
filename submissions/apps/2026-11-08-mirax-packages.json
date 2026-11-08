@@ -1,0 +1,28 @@
+{
+  "vendorLabel": "Mirax (Group-IB)",
+  "category": "MALWARE_C2",
+  "packages": [
+    "net.wgrjvz.toolyt93a",
+    "org.xrmhvlfx.litewnj3h",
+    "net.jsbzchba.clientpnzd",
+    "org.xifbep.utilityt50",
+    "io.svmlmt.mobilecu7sq",
+    "io.xccqt.helper3mk",
+    "io.vvecxa.clientffb",
+    "io.crxti.systems11f",
+    "org.lfzfxjmb.securejp65",
+    "net.yexqoe.systemlshkq",
+    "net.mfiaekme.toolgdqvu",
+    "org.fxutpep.utility0ql",
+    "net.rhnrektl.mobilejrs",
+    "io.isvac.safemmz7g",
+    "com.zjper.litewens",
+    "org.pruvqil.appq1km",
+    "net.vsqomby.toolc4s1x",
+    "org.yhjrihi.managerrk9u6",
+    "io.nmflf.pro4d2ll"
+  ],
+  "dateObserved": "2026-11-08",
+  "reportedBy": "Aether-0",
+  "evidence": "Group-IB lists these 19 Android package IDs in the Mirax file-indicator table and gives sample installation dates from 2026-06-29 through 2026-08-06. The report describes this Android banking RAT campaign as ongoing at publication. Its file SHA-1 values are not signing-certificate hashes and are omitted. Source (published 2026-11-05): https://www.group-ib.com/blog/mirax-android-device-takeover-rat/ Reviewed 2026-11-08; dateObserved is the source-confirmation date, not first-hand traffic."
+}

@@ -1,0 +1,11 @@
+{
+  "vendorLabel": "Groklem (STAR Labs)",
+  "category": "MALWARE_C2",
+  "packages": [
+    "com.sov.gxwmrppjo.wvnrts.xflal",
+    "com.cdcp.wjqdfnw"
+  ],
+  "dateObserved": "2026-11-08",
+  "reportedBy": "Aether-0",
+  "evidence": "STAR Labs identifies the outer package as the Groklem loader and the inner package as its malicious payload; the report says the sample was first seen 2026-11-05. The signing certificate is the stock Android debug certificate and is explicitly not a family anchor, so no signing hash is submitted. Source (published 2026-11-06): https://www.starlabs.sg/blog/2026/11-groklem-an-android-banker-that-rents-grok-to-read-your-texts/ Reviewed 2026-11-08; dateObserved is the source-confirmation date, not first-hand traffic."
+}

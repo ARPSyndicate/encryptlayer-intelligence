@@ -1,0 +1,9 @@
+{
+  "domain": "kenobuias.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-08",
+  "reportedBy": "Aether-0",
+  "evidence": "Group-IB lists this exact host in the Mirax report's Network Indicators. The report describes Mirax's configurable C2 host and says infections with the aquafina tag reported to multiple C2 hosts; association of this domain with C2 is inferred from its placement and context. The domain did not return an HTTP(S) response in the 2026-11-08 httpx check, so this is a historical report-listed indicator, not a claim of current availability. Source (published 2026-11-05): https://www.group-ib.com/blog/mirax-android-device-takeover-rat/ Reviewed 2026-11-08; dateObserved is the source-confirmation date, not first-hand traffic."
+}
