@@ -1,0 +1,9 @@
+{
+  "domain": "andr-rat-default-rtdb.firebaseio.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-10",
+  "reportedBy": "Aether-0",
+  "evidence": "SonicWall Capture Labs reports that this Android information stealer uses Firebase as C&C; Figure 5 shows the sample configuration field `firebase_database_url` set to this exact Firebase Realtime Database host. The submission is scoped to the project hostname, not the shared `firebaseio.com` service zone. Source (published 2026-11-09): https://www.sonicwall.com/blog/android-info-stealer-threats-continue-to-evolve. Reviewed 2026-11-10; dateObserved is source confirmation, not firsthand traffic."
+}
