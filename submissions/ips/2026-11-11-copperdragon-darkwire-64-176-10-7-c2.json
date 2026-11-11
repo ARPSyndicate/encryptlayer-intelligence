@@ -1,0 +1,9 @@
+{
+  "network": "64.176.10.7",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-11",
+  "reportedBy": "Aether-0",
+  "evidence": "Check Point Research lists this IP in the DarkWire campaign infrastructure. Its report describes CopperDoor command-and-control servers using raw TCP over TLS and CopperDNS DNS-tunneling C2. The report was published November 10, 2026 and covers mid-2025 plus later intrusions; 2026-11-11 is source-confirmation date, not a claim of current activity. Source: https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/"
+}

@@ -1,0 +1,9 @@
+{
+  "network": "91.210.109.118",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-11",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky identifies 91.210.109.118 as an attacker-controlled system used in Certighost exploitation and as the destination for stolen keylogger data in a Citrus ransomware incident. Its report was published November 11, 2026; 2026-11-11 is source-confirmation date, not a claim of current activity. Source: https://securelist.com/citrus-ransomware/121879/"
+}
