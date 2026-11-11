@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-11-08T17:57:58Z",
+  "generatedAt": "2026-11-11T06:41:40Z",
   "ipEntries": [
     {
       "network": "142.111.194.73",
@@ -1926,6 +1926,12 @@
     },
     {
       "domain": "oscofneuid.com",
+      "matchSubdomains": false,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "domain": "andr-rat-default-rtdb.firebaseio.com",
       "matchSubdomains": false,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
