@@ -1,0 +1,9 @@
+{
+  "network": "23.227.199.41",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-11",
+  "reportedBy": "Aether-0",
+  "evidence": "Huntress identifies 23.227.199.41 as attacker-controlled infrastructure used for a reverse SSH tunnel during an early-September ClickFix intrusion and lists it as the remote tunnel host. The report was published November 10, 2026; 2026-11-11 is source-confirmation date, not a claim of current activity. Source: https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+}
