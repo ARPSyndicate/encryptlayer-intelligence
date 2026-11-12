@@ -1,0 +1,9 @@
+{
+  "domain": "server.vietnam852.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "evidence": "FortiGuard Labs (2026-11-12) identifies server.vietnam852.com:8000 as a hard-coded Gh0st RAT command-and-control endpoint. This records the report's finding and does not claim current reachability. https://www.fortinet.com/blog/threat-research/t-sql-being-abused-to-deliver-malware-on-compromised-ms-sql-servers",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-12",
+  "reportedBy": "Aether-0"
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "foreverpeace.ru",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "evidence": "CloudSEK (published 2026-11-11; reviewed 2026-11-12) identifies foreverpeace[.]ru as the Silent Lynx operator's self-hosted NetBird control plane and Pangolin reverse-proxy infrastructure. Source confirmation only; no current-activity claim. https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-12",
+  "reportedBy": "Aether-0"
+}

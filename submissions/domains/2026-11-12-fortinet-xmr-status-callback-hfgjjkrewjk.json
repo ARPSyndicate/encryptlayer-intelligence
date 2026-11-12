@@ -1,0 +1,9 @@
+{
+  "domain": "site.hfgjjkrewjk.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "evidence": "FortiGuard Labs (2026-11-12) includes hxxp://site.hfgjjkrewjk[.]com/tj/xmr.php?data= in the indicators for the malware's XMR miner status callback. The entry is limited to this exact host and makes no current-reachability claim. https://www.fortinet.com/blog/threat-research/t-sql-being-abused-to-deliver-malware-on-compromised-ms-sql-servers",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-12",
+  "reportedBy": "Aether-0"
+}
