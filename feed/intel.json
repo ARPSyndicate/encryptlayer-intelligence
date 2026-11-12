@@ -1,6 +1,6 @@
 {
   "feedVersion": "1",
-  "generatedAt": "2026-11-11T06:41:40Z",
+  "generatedAt": "2026-11-12T15:57:45Z",
   "ipEntries": [
     {
       "network": "142.111.194.73",
@@ -466,6 +466,234 @@
     },
     {
       "network": "45.192.214.73",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "91.210.109.118",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "108.61.161.250",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "149.104.12.128",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "149.104.87.222",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "149.104.87.228",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "156.244.2.26",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "167.179.109.141",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "181.41.201.244",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "185.93.173.30",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "188.214.157.51",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.106.177",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.107.140",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.110.120",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.111.30",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.113.122",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.115.152",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.119.130",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.120.8",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.121.254",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.71.215",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.73.14",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.85.243",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "216.238.90.160",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.54.45.155",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.54.57.12",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.60.206.85",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.60.209.65",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.60.214.237",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.60.241.193",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.60.241.65",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "38.60.242.182",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "45.76.215.17",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "64.176.10.7",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "64.176.6.27",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "77.111.101.11",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "77.111.101.153",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "77.111.101.227",
+      "prefixLength": 32,
+      "category": "MALWARE_C2",
+      "severity": "MEDIUM"
+    },
+    {
+      "network": "23.227.199.41",
       "prefixLength": 32,
       "category": "MALWARE_C2",
       "severity": "MEDIUM"
