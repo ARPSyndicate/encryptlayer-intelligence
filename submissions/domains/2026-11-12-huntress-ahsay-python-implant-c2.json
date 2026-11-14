@@ -1,0 +1,9 @@
+{
+  "domain": "creepexplosiondarknight.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "evidence": "Huntress (published 2026-11-09; reviewed 2026-11-12) identifies hxxps://creepexplosiondarknight[.]com/d as command-and-control for the recovered Python-based implant in the AhsayCBS intrusion. This is source confirmation, not a claim of current reachability. https://www.huntress.com/blog/ahsaycbs-webshells",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-12",
+  "reportedBy": "Aether-0"
+}

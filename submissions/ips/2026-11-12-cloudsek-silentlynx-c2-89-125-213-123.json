@@ -1,0 +1,9 @@
+{
+  "network": "89.125.213.123",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "evidence": "CloudSEK (published 2026-11-11; reviewed 2026-11-12) lists 89.125.213.123 as the Silent Lynx operator server for payload hosting, C2, phishing and scanning. This is source confirmation; it does not assert current activity. https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-12",
+  "reportedBy": "Aether-0"
+}

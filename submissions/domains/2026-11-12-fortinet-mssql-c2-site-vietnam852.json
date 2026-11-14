@@ -1,0 +1,9 @@
+{
+  "domain": "site.vietnam852.com",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "evidence": "FortiGuard Labs (2026-11-12) documents the malware retrieving scan ranges from hxxp://site.vietnam852[.]com:88/ip.php and using the host in its SQL Server malware chain. This is source-confirmed C2 infrastructure, not a claim of current reachability. https://www.fortinet.com/blog/threat-research/t-sql-being-abused-to-deliver-malware-on-compromised-ms-sql-servers",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-12",
+  "reportedBy": "Aether-0"
+}
