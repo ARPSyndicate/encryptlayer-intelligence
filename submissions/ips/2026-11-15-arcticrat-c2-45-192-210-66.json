@@ -1,0 +1,9 @@
+{
+  "network": "45.192.210.66",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-15",
+  "reportedBy": "Aether-0",
+  "evidence": "Zimperium’s November 12, 2026 ArcticRAT analysis describes direct TCP command-and-control and links this address in its C2 indicator list: https://zimperium.com/blog/arcticrat-ai-powered-android-rat ; https://github.com/Zimperium/IOC/blob/dbf8d22255e492fa578934387a75476195ee55a5/2026-11-ArticRAT/c2.csv. Confirmed from the published report on 2026-11-15; this records source confirmation and does not assert the host is still active."
+}

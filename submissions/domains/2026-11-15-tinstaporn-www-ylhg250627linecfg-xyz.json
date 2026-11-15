@@ -1,0 +1,9 @@
+{
+  "domain": "www.ylhg250627linecfg.xyz",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-15",
+  "reportedBy": "Aether-0",
+  "evidence": "Fortinet lists this hostname among Android/TinstaPorn network IOCs; the analysis documents the malware’s line-configuration and game-server backend, which supplies server configuration and handles app commands/data. Source: https://www.fortinet.com/blog/threat-research/analyzing-an-illegal-android-gambling-app-built-with-flutter (published November 9, 2026). Confirmed from the report on 2026-11-15; this is source confirmation, not a claim of current activity."
+}

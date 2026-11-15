@@ -1,0 +1,11 @@
+{
+  "vendorLabel": "ArcticRAT",
+  "category": "MALWARE_C2",
+  "packages": [
+    "net.iceflow.arcticlink",
+    "net.frostlink.iceforge"
+  ],
+  "dateObserved": "2026-11-15",
+  "reportedBy": "Aether-0",
+  "evidence": "Zimperium’s November 12, 2026 analysis identifies these package names in early ArcticRAT samples and documents the family as Android malware with direct TCP C2: https://zimperium.com/blog/arcticrat-ai-powered-android-rat. Confirmed from the report on 2026-11-15; no signing-certificate SHA-1 was supplied by the cited source."
+}
