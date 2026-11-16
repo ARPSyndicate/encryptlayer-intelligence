@@ -1,0 +1,9 @@
+{
+  "domain": "up.logupload0628.xyz",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-15",
+  "reportedBy": "Aether-0",
+  "evidence": "Fortinet identifies this hostname as the Android/TinstaPorn log server; the malware posts app-startup device-fingerprint information to its /app/log/raw/report endpoint. Source: https://www.fortinet.com/blog/threat-research/analyzing-an-illegal-android-gambling-app-built-with-flutter (published November 9, 2026). Confirmed from the report on 2026-11-15; this is source confirmation, not a claim of current activity."
+}
