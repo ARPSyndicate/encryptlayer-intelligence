@@ -1,0 +1,9 @@
+{
+  "network": "27.102.66.162",
+  "prefixLength": 32,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-17",
+  "reportedBy": "Aether-0",
+  "evidence": "Kaspersky Securelist's November 17, 2026 Operation ShadowCloud analysis says a deployed MeshCentral Agent was hard-coded to connect by WSS to 27.102.66.162:443/agent.ashx, after which the actor used it to stage loaders and backdoors. The report describes the campaign as identified in early 2026 and gives no per-host first-seen date; source confirmation on 2026-11-17, not firsthand traffic or current-activity evidence. One IP only. Source: https://securelist.com/operation-shadowcloud-gitdoor/122004/"
+}
