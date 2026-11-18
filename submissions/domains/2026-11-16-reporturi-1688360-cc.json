@@ -1,0 +1,9 @@
+{
+  "domain": "1688360.cc",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "HIGH",
+  "dateObserved": "2026-11-16",
+  "reportedBy": "Aether-0",
+  "evidence": "Report URI's November 16, 2026 incident analysis identifies this attacker-owned hostname as C2 for track.js, card.php, hit.php, and html2canvas.min.js; the report links it to crypto-address swapping, card skimming, and collection of page data. The report first saw the main payload on this host on November 16 and states it was placed on clientHold on November 17 and no longer resolved; this is a historical malicious indicator, not a claim of current reachability. Exact-host scope; source confirmation on 2026-11-17, not firsthand traffic observation. Source: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+}

@@ -1,0 +1,9 @@
+{
+  "domain": "l7bcsnwc7nzr3uo.icu",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-17",
+  "reportedBy": "Aether-0",
+  "evidence": "Report URI's November 16, 2026 incident analysis identifies this attacker-owned hostname as Coruna telemetry host receiving POST /api/iptj in the iOS exploit chain. The report documents the related Optimizely supply-chain malware campaign and its theft/exploit behavior. Source confirmation on 2026-11-17, not firsthand traffic observation. Exact-host scope. Source: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+}

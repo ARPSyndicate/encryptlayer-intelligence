@@ -1,0 +1,9 @@
+{
+  "domain": "ios-hack.icu",
+  "matchSubdomains": false,
+  "category": "MALWARE_C2",
+  "severity": "MEDIUM",
+  "dateObserved": "2026-11-17",
+  "reportedBy": "Aether-0",
+  "evidence": "Report URI's November 16, 2026 incident analysis identifies this attacker-owned hostname as Fallback C2 hard-coded in the iOS exploit-kit boot.js. The report documents the related Optimizely supply-chain malware campaign and its theft/exploit behavior. Source confirmation on 2026-11-17, not firsthand traffic observation. Exact-host scope. Source: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+}
